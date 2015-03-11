@@ -1,0 +1,860 @@
+TCommon
+v6
+r1
+cCheck dependencies
+cProcessPCH /var/folders/tn/q0y0fs296f74mvjbfh0fnxc00000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/Common-Prefix-dnlfkshqbcxlvcdwetywfnhofkgr/Common-Prefix.pch.pch Common/Supporting\ Files/Common-Prefix.pch normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cProcessPCH /var/folders/tn/q0y0fs296f74mvjbfh0fnxc00000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/Common-Prefix-gxtejhddffgiuoaqsnfqdqujkdfy/Common-Prefix.pch.pch Common/Supporting\ Files/Common-Prefix.pch normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cProcessPCH /var/folders/tn/q0y0fs296f74mvjbfh0fnxc00000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/Common-Prefix-euzrorldkkotboallctnezkpbxoa/Common-Prefix.pch.pch Common/Supporting\ Files/Common-Prefix.pch normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/Common.build/Debug-iphoneos/Common.build/Objects-normal/armv7/AVTBaseAppService.o /Users/PE-AGUTIERREZ/Dropbox/Dev/PoC/Common/Common/Application\ Core/Application\ Services/AVTBaseAppService.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/Common.build/Debug-iphoneos/Common.build/Objects-normal/armv7/AVTBaseJSONModel.o /Users/PE-AGUTIERREZ/Dropbox/Dev/PoC/Common/Common/Application\ Core/Domain\ Model/AVTBaseJSONModel.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/Common.build/Debug-iphoneos/Common.build/Objects-normal/armv7/AFHTTPRequestOperation.o /Users/PE-AGUTIERREZ/Dropbox/Dev/PoC/Common/Common/Infrastructure/Libraries/AFNetworking/AFHTTPRequestOperation.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/Common.build/Debug-iphoneos/Common.build/Objects-normal/armv7/AFHTTPRequestOperationManager.o /Users/PE-AGUTIERREZ/Dropbox/Dev/PoC/Common/Common/Infrastructure/Libraries/AFNetworking/AFHTTPRequestOperationManager.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/Common.build/Debug-iphoneos/Common.build/Objects-normal/armv7/AFHTTPSessionManager.o /Users/PE-AGUTIERREZ/Dropbox/Dev/PoC/Common/Common/Infrastructure/Libraries/AFNetworking/AFHTTPSessionManager.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/Common.build/Debug-iphoneos/Common.build/Objects-normal/armv7/AFNetworkReachabilityManager.o /Users/PE-AGUTIERREZ/Dropbox/Dev/PoC/Common/Common/Infrastructure/Libraries/AFNetworking/AFNetworkReachabilityManager.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/Common.build/Debug-iphoneos/Common.build/Objects-normal/armv7/AFSecurityPolicy.o /Users/PE-AGUTIERREZ/Dropbox/Dev/PoC/Common/Common/Infrastructure/Libraries/AFNetworking/AFSecurityPolicy.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/Common.build/Debug-iphoneos/Common.build/Objects-normal/armv7/AFURLConnectionOperation.o /Users/PE-AGUTIERREZ/Dropbox/Dev/PoC/Common/Common/Infrastructure/Libraries/AFNetworking/AFURLConnectionOperation.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/SDKSettings.plist
+c000000005323FCC4000000000000036B
+t1394867396
+s875
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/System/Library/CoreServices/SystemVersion.plist
+c000000005323FCC4000000000000019E
+t1394867396
+s414
+
+N/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.1/include/module.map
+c000000005323FCEB0000000000000ADC
+t1394867435
+s2780
+
+N/Users/PE-AGUTIERREZ/Dropbox/Dev/PoC/Common/Common/Application Core/Application Services/AVTBaseAppService.m
+c0000000053C6B26C0000000000000220
+t1405530732
+s544
+
+N/Users/PE-AGUTIERREZ/Dropbox/Dev/PoC/Common/Common/Application Core/Domain Model/AVTBaseJSONModel.m
+c0000000053C6B2350000000000000192
+t1405530677
+s402
+
+N/Users/PE-AGUTIERREZ/Dropbox/Dev/PoC/Common/Common/Infrastructure/Libraries/AFNetworking/AFHTTPRequestOperation.m
+c0000000053B43E9B0000000000001D62
+t1404321435
+s7522
+
+N/Users/PE-AGUTIERREZ/Dropbox/Dev/PoC/Common/Common/Infrastructure/Libraries/AFNetworking/AFHTTPRequestOperationManager.m
+c0000000053B43E9B00000000000029D9
+t1404321435
+s10713
+
+N/Users/PE-AGUTIERREZ/Dropbox/Dev/PoC/Common/Common/Infrastructure/Libraries/AFNetworking/AFHTTPSessionManager.m
+c0000000053B43E9B00000000000030C4
+t1404321435
+s12484
+
+N/Users/PE-AGUTIERREZ/Dropbox/Dev/PoC/Common/Common/Infrastructure/Libraries/AFNetworking/AFNetworkReachabilityManager.m
+c0000000053B43E9B000000000000267B
+t1404321435
+s9851
+
+N/Users/PE-AGUTIERREZ/Dropbox/Dev/PoC/Common/Common/Infrastructure/Libraries/AFNetworking/AFSecurityPolicy.m
+c0000000053B43E9B00000000000029BA
+t1404321435
+s10682
+
+N/Users/PE-AGUTIERREZ/Dropbox/Dev/PoC/Common/Common/Infrastructure/Libraries/AFNetworking/AFURLConnectionOperation.m
+c0000000053B43E9B0000000000006CDD
+t1404321435
+s27869
+
+N/Users/PE-AGUTIERREZ/Dropbox/Dev/PoC/Common/Common/Infrastructure/Libraries/AFNetworking/AFURLRequestSerialization.m
+c0000000053B43E9B000000000000BAA6
+t1404321435
+s47782
+
+N/Users/PE-AGUTIERREZ/Dropbox/Dev/PoC/Common/Common/Supporting Files/Common-Prefix.pch
+c0000000053C6B53B00000000000001C2
+t1405531451
+s450
+
+N/Users/PE-AGUTIERREZ/Dropbox/Dev/PoC/Common/build/Common.build/Debug-iphoneos/Common.build/Objects-normal/armv7/AFHTTPRequestOperation.o
+t2
+s0
+
+N/Users/PE-AGUTIERREZ/Dropbox/Dev/PoC/Common/build/Common.build/Debug-iphoneos/Common.build/Objects-normal/armv7/AFHTTPRequestOperationManager.o
+t2
+s0
+
+N/Users/PE-AGUTIERREZ/Dropbox/Dev/PoC/Common/build/Common.build/Debug-iphoneos/Common.build/Objects-normal/armv7/AFHTTPSessionManager.o
+t2
+s0
+
+N/Users/PE-AGUTIERREZ/Dropbox/Dev/PoC/Common/build/Common.build/Debug-iphoneos/Common.build/Objects-normal/armv7/AFNetworkReachabilityManager.o
+t2
+s0
+
+N/Users/PE-AGUTIERREZ/Dropbox/Dev/PoC/Common/build/Common.build/Debug-iphoneos/Common.build/Objects-normal/armv7/AFSecurityPolicy.o
+t2
+s0
+
+N/Users/PE-AGUTIERREZ/Dropbox/Dev/PoC/Common/build/Common.build/Debug-iphoneos/Common.build/Objects-normal/armv7/AFURLConnectionOperation.o
+t2
+s0
+
+N/Users/PE-AGUTIERREZ/Dropbox/Dev/PoC/Common/build/Common.build/Debug-iphoneos/Common.build/Objects-normal/armv7/AFURLRequestSerialization.o
+t2
+s0
+
+N/Users/PE-AGUTIERREZ/Dropbox/Dev/PoC/Common/build/Common.build/Debug-iphoneos/Common.build/Objects-normal/armv7/AVTBaseAppService.o
+t2
+s0
+
+N/Users/PE-AGUTIERREZ/Dropbox/Dev/PoC/Common/build/Common.build/Debug-iphoneos/Common.build/Objects-normal/armv7/AVTBaseJSONModel.o
+t2
+s0
+
+N/var/folders/tn/q0y0fs296f74mvjbfh0fnxc00000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/Common-Prefix-dnlfkshqbcxlvcdwetywfnhofkgr/Common-Prefix.pch.pch
+t1405541864
+s197336
+
+N/var/folders/tn/q0y0fs296f74mvjbfh0fnxc00000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/Common-Prefix-euzrorldkkotboallctnezkpbxoa/Common-Prefix.pch.pch
+t1405541864
+s210404
+
+N/var/folders/tn/q0y0fs296f74mvjbfh0fnxc00000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/Common-Prefix-gxtejhddffgiuoaqsnfqdqujkdfy/Common-Prefix.pch.pch
+t1405541863
+s197392
+
+CCheck dependencies
+r0
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies18"Check dependencies603a11fc2b77b941^c5755cfc2b77b941^---0#1#1#--18"Check dependencies36"76281498-B627-4CE8-92EF-7CFB37DA142B-
+
+CCompileC build/Common.build/Debug-iphoneos/Common.build/Objects-normal/arm64/AFHTTPRequestOperation.o /Users/PE-AGUTIERREZ/Dropbox/Dev/PoC/Common/Common/Infrastructure/Libraries/AFNetworking/AFHTTPRequestOperation.m normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/Common.build/Debug-iphoneos/Common.build/Objects-normal/arm64/AFHTTPRequestOperationManager.o /Users/PE-AGUTIERREZ/Dropbox/Dev/PoC/Common/Common/Infrastructure/Libraries/AFNetworking/AFHTTPRequestOperationManager.m normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/Common.build/Debug-iphoneos/Common.build/Objects-normal/arm64/AFHTTPSessionManager.o /Users/PE-AGUTIERREZ/Dropbox/Dev/PoC/Common/Common/Infrastructure/Libraries/AFNetworking/AFHTTPSessionManager.m normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/Common.build/Debug-iphoneos/Common.build/Objects-normal/arm64/AFNetworkActivityIndicatorManager.o /Users/PE-AGUTIERREZ/Dropbox/Dev/PoC/Common/Common/Infrastructure/Libraries/AFNetworking/UIKit+AFNetworking/AFNetworkActivityIndicatorManager.m normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/Common.build/Debug-iphoneos/Common.build/Objects-normal/arm64/AFNetworkReachabilityManager.o /Users/PE-AGUTIERREZ/Dropbox/Dev/PoC/Common/Common/Infrastructure/Libraries/AFNetworking/AFNetworkReachabilityManager.m normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/Common.build/Debug-iphoneos/Common.build/Objects-normal/arm64/AFSecurityPolicy.o /Users/PE-AGUTIERREZ/Dropbox/Dev/PoC/Common/Common/Infrastructure/Libraries/AFNetworking/AFSecurityPolicy.m normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/Common.build/Debug-iphoneos/Common.build/Objects-normal/arm64/AFURLConnectionOperation.o /Users/PE-AGUTIERREZ/Dropbox/Dev/PoC/Common/Common/Infrastructure/Libraries/AFNetworking/AFURLConnectionOperation.m normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/Common.build/Debug-iphoneos/Common.build/Objects-normal/arm64/AFURLRequestSerialization.o /Users/PE-AGUTIERREZ/Dropbox/Dev/PoC/Common/Common/Infrastructure/Libraries/AFNetworking/AFURLRequestSerialization.m normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/Common.build/Debug-iphoneos/Common.build/Objects-normal/arm64/AFURLResponseSerialization.o /Users/PE-AGUTIERREZ/Dropbox/Dev/PoC/Common/Common/Infrastructure/Libraries/AFNetworking/AFURLResponseSerialization.m normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/Common.build/Debug-iphoneos/Common.build/Objects-normal/arm64/AFURLSessionManager.o /Users/PE-AGUTIERREZ/Dropbox/Dev/PoC/Common/Common/Infrastructure/Libraries/AFNetworking/AFURLSessionManager.m normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/Common.build/Debug-iphoneos/Common.build/Objects-normal/arm64/AVTAlertViewFactory.o /Users/PE-AGUTIERREZ/Dropbox/Dev/PoC/Common/Common/Infrastructure/Utility/Factories/AVTAlertViewFactory.m normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/Common.build/Debug-iphoneos/Common.build/Objects-normal/arm64/AVTAppDelegate.o /Users/PE-AGUTIERREZ/Dropbox/Dev/PoC/Common/Common/Supporting\ Files/AVTAppDelegate.m normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/Common.build/Debug-iphoneos/Common.build/Objects-normal/arm64/AVTBaseAppService.o /Users/PE-AGUTIERREZ/Dropbox/Dev/PoC/Common/Common/Application\ Core/Application\ Services/AVTBaseAppService.m normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/Common.build/Debug-iphoneos/Common.build/Objects-normal/arm64/AVTBaseAppearanceManager.o /Users/PE-AGUTIERREZ/Dropbox/Dev/PoC/Common/Common/Infrastructure/Utility/Helpers/AVTBaseAppearanceManager.m normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/Common.build/Debug-iphoneos/Common.build/Objects-normal/arm64/AVTBaseError.o /Users/PE-AGUTIERREZ/Dropbox/Dev/PoC/Common/Common/Infrastructure/Service\ Agents/NSErrors/AVTBaseError.m normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/Common.build/Debug-iphoneos/Common.build/Objects-normal/arm64/AVTBaseFactory.o /Users/PE-AGUTIERREZ/Dropbox/Dev/PoC/Common/Common/Infrastructure/Utility/Factories/AVTBaseFactory.m normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/Common.build/Debug-iphoneos/Common.build/Objects-normal/arm64/AVTBaseJSONModel.o /Users/PE-AGUTIERREZ/Dropbox/Dev/PoC/Common/Common/Application\ Core/Domain\ Model/AVTBaseJSONModel.m normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/Common.build/Debug-iphoneos/Common.build/Objects-normal/arm64/AVTBaseServiceAgent.o /Users/PE-AGUTIERREZ/Dropbox/Dev/PoC/Common/Common/Infrastructure/Service\ Agents/AVTBaseServiceAgent.m normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/Common.build/Debug-iphoneos/Common.build/Objects-normal/arm64/AVTBaseTableViewController.o /Users/PE-AGUTIERREZ/Dropbox/Dev/PoC/Common/Common/User\ Interface/Controllers/Base/AVTBaseTableViewController.m normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/Common.build/Debug-iphoneos/Common.build/Objects-normal/arm64/AVTBaseViewController.o /Users/PE-AGUTIERREZ/Dropbox/Dev/PoC/Common/Common/User\ Interface/Controllers/Base/AVTBaseViewController.m normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/Common.build/Debug-iphoneos/Common.build/Objects-normal/arm64/AVTConnectivityError.o /Users/PE-AGUTIERREZ/Dropbox/Dev/PoC/Common/Common/Infrastructure/Service\ Agents/NSErrors/AVTConnectivityError.m normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/Common.build/Debug-iphoneos/Common.build/Objects-normal/arm64/AVTEditionDisabledTextField.o /Users/PE-AGUTIERREZ/Dropbox/Dev/PoC/Common/Common/User\ Interface/Views/UITextFields/AVTEditionDisabledTextField.m normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/Common.build/Debug-iphoneos/Common.build/Objects-normal/arm64/AVTErrorFactory.o /Users/PE-AGUTIERREZ/Dropbox/Dev/PoC/Common/Common/Infrastructure/Utility/Factories/AVTErrorFactory.m normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/Common.build/Debug-iphoneos/Common.build/Objects-normal/arm64/AVTHTTPError.o /Users/PE-AGUTIERREZ/Dropbox/Dev/PoC/Common/Common/Infrastructure/Service\ Agents/NSErrors/AVTHTTPError.m normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/Common.build/Debug-iphoneos/Common.build/Objects-normal/arm64/MRActivityIndicatorView.o /Users/PE-AGUTIERREZ/Dropbox/Dev/PoC/Common/Common/Infrastructure/Libraries/MRProgress/src/Components/MRActivityIndicatorView.m normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/Common.build/Debug-iphoneos/Common.build/Objects-normal/arm64/MRBlurView.o /Users/PE-AGUTIERREZ/Dropbox/Dev/PoC/Common/Common/Infrastructure/Libraries/MRProgress/src/Blur/MRBlurView.m normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/Common.build/Debug-iphoneos/Common.build/Objects-normal/arm64/MRCircularProgressView.o /Users/PE-AGUTIERREZ/Dropbox/Dev/PoC/Common/Common/Infrastructure/Libraries/MRProgress/src/Components/MRCircularProgressView.m normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/Common.build/Debug-iphoneos/Common.build/Objects-normal/arm64/MRIconView.o /Users/PE-AGUTIERREZ/Dropbox/Dev/PoC/Common/Common/Infrastructure/Libraries/MRProgress/src/Components/MRIconView.m normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/Common.build/Debug-iphoneos/Common.build/Objects-normal/arm64/MRMessageInterceptor.o /Users/PE-AGUTIERREZ/Dropbox/Dev/PoC/Common/Common/Infrastructure/Libraries/MRProgress/src/Utils/MRMessageInterceptor.m normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/Common.build/Debug-iphoneos/Common.build/Objects-normal/arm64/MRNavigationBarProgressView.o /Users/PE-AGUTIERREZ/Dropbox/Dev/PoC/Common/Common/Infrastructure/Libraries/MRProgress/src/Components/MRNavigationBarProgressView.m normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/Common.build/Debug-iphoneos/Common.build/Objects-normal/arm64/MRProgressOverlayView.o /Users/PE-AGUTIERREZ/Dropbox/Dev/PoC/Common/Common/Infrastructure/Libraries/MRProgress/src/Components/MRProgressOverlayView.m normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/Common.build/Debug-iphoneos/Common.build/Objects-normal/arm64/MRWeakProxy.o /Users/PE-AGUTIERREZ/Dropbox/Dev/PoC/Common/Common/Infrastructure/Libraries/MRProgress/src/Utils/MRWeakProxy.m normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/Common.build/Debug-iphoneos/Common.build/Objects-normal/arm64/NSAttributedString+Fonts.o /Users/PE-AGUTIERREZ/Dropbox/Dev/PoC/Common/Common/Infrastructure/Utility/Helpers/Categories/Foundation/NSAttributedString+Fonts.m normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/Common.build/Debug-iphoneos/Common.build/Objects-normal/arm64/NSDateFormatter+Singleton.o /Users/PE-AGUTIERREZ/Dropbox/Dev/PoC/Common/Common/Infrastructure/Utility/Helpers/Categories/Foundation/NSDateFormatter+Singleton.m normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/Common.build/Debug-iphoneos/Common.build/Objects-normal/arm64/NSString+Size.o /Users/PE-AGUTIERREZ/Dropbox/Dev/PoC/Common/Common/Infrastructure/Utility/Helpers/Categories/Foundation/NSString+Size.m normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/Common.build/Debug-iphoneos/Common.build/Objects-normal/arm64/PNTToolbar.o /Users/PE-AGUTIERREZ/Dropbox/Dev/PoC/Common/Common/Infrastructure/Libraries/PNTToolbar/PNTToolbar.m normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/Common.build/Debug-iphoneos/Common.build/Objects-normal/arm64/Reachability.o /Users/PE-AGUTIERREZ/Dropbox/Dev/PoC/Common/Common/Infrastructure/Libraries/Reachability/Reachability.m normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/Common.build/Debug-iphoneos/Common.build/Objects-normal/arm64/UIActivityIndicatorView+AFNetworking.o /Users/PE-AGUTIERREZ/Dropbox/Dev/PoC/Common/Common/Infrastructure/Libraries/AFNetworking/UIKit+AFNetworking/UIActivityIndicatorView+AFNetworking.m normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/Common.build/Debug-iphoneos/Common.build/Objects-normal/arm64/UIAlertView+AFNetworking.o /Users/PE-AGUTIERREZ/Dropbox/Dev/PoC/Common/Common/Infrastructure/Libraries/AFNetworking/UIKit+AFNetworking/UIAlertView+AFNetworking.m normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/Common.build/Debug-iphoneos/Common.build/Objects-normal/arm64/UIButton+AFNetworking.o /Users/PE-AGUTIERREZ/Dropbox/Dev/PoC/Common/Common/Infrastructure/Libraries/AFNetworking/UIKit+AFNetworking/UIButton+AFNetworking.m normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/Common.build/Debug-iphoneos/Common.build/Objects-normal/arm64/UIColor+CustomColors.o /Users/PE-AGUTIERREZ/Dropbox/Dev/PoC/Common/Common/Infrastructure/Utility/Helpers/Categories/UI/UIColor+CustomColors.m normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/Common.build/Debug-iphoneos/Common.build/Objects-normal/arm64/UIImage+MRImageEffects.o /Users/PE-AGUTIERREZ/Dropbox/Dev/PoC/Common/Common/Infrastructure/Libraries/MRProgress/src/Blur/UIImage+MRImageEffects.m normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/Common.build/Debug-iphoneos/Common.build/Objects-normal/arm64/UIImageView+AFNetworking.o /Users/PE-AGUTIERREZ/Dropbox/Dev/PoC/Common/Common/Infrastructure/Libraries/AFNetworking/UIKit+AFNetworking/UIImageView+AFNetworking.m normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/Common.build/Debug-iphoneos/Common.build/Objects-normal/arm64/UILabel+TextSize.o /Users/PE-AGUTIERREZ/Dropbox/Dev/PoC/Common/Common/Infrastructure/Utility/Helpers/Categories/UI/UILabel+TextSize.m normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/Common.build/Debug-iphoneos/Common.build/Objects-normal/arm64/UIProgressView+AFNetworking.o /Users/PE-AGUTIERREZ/Dropbox/Dev/PoC/Common/Common/Infrastructure/Libraries/AFNetworking/UIKit+AFNetworking/UIProgressView+AFNetworking.m normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/Common.build/Debug-iphoneos/Common.build/Objects-normal/arm64/UIRefreshControl+AFNetworking.o /Users/PE-AGUTIERREZ/Dropbox/Dev/PoC/Common/Common/Infrastructure/Libraries/AFNetworking/UIKit+AFNetworking/UIRefreshControl+AFNetworking.m normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/Common.build/Debug-iphoneos/Common.build/Objects-normal/arm64/UIWebView+AFNetworking.o /Users/PE-AGUTIERREZ/Dropbox/Dev/PoC/Common/Common/Infrastructure/Libraries/AFNetworking/UIKit+AFNetworking/UIWebView+AFNetworking.m normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/Common.build/Debug-iphoneos/Common.build/Objects-normal/arm64/main.o /Users/PE-AGUTIERREZ/Dropbox/Dev/PoC/Common/Common/Supporting\ Files/main.m normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/Common.build/Debug-iphoneos/Common.build/Objects-normal/armv7/AFHTTPRequestOperation.o /Users/PE-AGUTIERREZ/Dropbox/Dev/PoC/Common/Common/Infrastructure/Libraries/AFNetworking/AFHTTPRequestOperation.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s427240444.364898
+e427240444.500765
+r0
+xCompileC
+xbuild/Common.build/Debug-iphoneos/Common.build/Objects-normal/armv7/AFHTTPRequestOperation.o
+x/Users/PE-AGUTIERREZ/Dropbox/Dev/PoC/Common/Common/Infrastructure/Libraries/AFNetworking/AFHTTPRequestOperation.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+ofatal error: file '/Users/PE-AGUTIERREZ/Dropbox/Dev/PoC/Common/Common/Infrastructure/Utility/Helpers/Macros/AVTLocalizationMacros.h' has been modified since the precompiled header '/var/folders/tn/q0y0fs296f74mvjbfh0fnxc00000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/Common-Prefix-dnlfkshqbcxlvcdwetywfnhofkgr/Common-Prefix.pch.pch' was built
+onote: after modifying system headers, please delete the module cache at '/var/folders/tn/q0y0fs296f74mvjbfh0fnxc00000gn/C/org.llvm.clang/ModuleCache/BRUQEXS6GIX5'
+o1 error generated.
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection121"Compile /Users/PE-AGUTIERREZ/Dropbox/Dev/PoC/Common/Common/Infrastructure/Libraries/AFNetworking/AFHTTPRequestOperation.m240"CompileC build/Common.build/Debug-iphoneos/Common.build/Objects-normal/armv7/AFHTTPRequestOperation.o Common/Infrastructure/Libraries/AFNetworking/AFHTTPRequestOperation.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler00ad5dfc2b77b941^553280fc2b77b941^-576"fatal error: file '/Users/PE-AGUTIERREZ/Dropbox/Dev/PoC/Common/Common/Infrastructure/Utility/Helpers/Macros/AVTLocalizationMacros.h' has been modified since the precompiled header '/var/folders/tn/q0y0fs296f74mvjbfh0fnxc00000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/Common-Prefix-dnlfkshqbcxlvcdwetywfnhofkgr/Common-Prefix.pch.pch' was builtnote: after modifying system headers, please delete the module cache at '/var/folders/tn/q0y0fs296f74mvjbfh0fnxc00000gn/C/org.llvm.clang/ModuleCache/BRUQEXS6GIX5'1 error generated.-0#0#1#-19%DVTDocumentLocation2@120"file:///Users/PE-AGUTIERREZ/Dropbox/Dev/PoC/Common/Common/Infrastructure/Libraries/AFNetworking/AFHTTPRequestOperation.m0000000000000000^3410"CompileC build/Common.build/Debug-iphoneos/Common.build/Objects-normal/armv7/AFHTTPRequestOperation.o Common/Infrastructure/Libraries/AFNetworking/AFHTTPRequestOperation.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/PE-AGUTIERREZ/Dropbox/Dev/PoC/Common    export LANG=en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch armv7 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=7.1 -iquote /Users/PE-AGUTIERREZ/Dropbox/Dev/PoC/Common/build/Common.build/Debug-iphoneos/Common.build/Common-generated-files.hmap -I/Users/PE-AGUTIERREZ/Dropbox/Dev/PoC/Common/build/Common.build/Debug-iphoneos/Common.build/Common-own-target-headers.hmap -I/Users/PE-AGUTIERREZ/Dropbox/Dev/PoC/Common/build/Common.build/Debug-iphoneos/Common.build/Common-all-target-headers.hmap -iquote /Users/PE-AGUTIERREZ/Dropbox/Dev/PoC/Common/build/Common.build/Debug-iphoneos/Common.build/Common-project-headers.hmap -I/Users/PE-AGUTIERREZ/Library/Developer/Xcode/DerivedData/Base-ajwiwismeshculdsdjouxkmgccjy/Build/Products/Debug-iphoneos/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/PE-AGUTIERREZ/Dropbox/Dev/PoC/Common/build/Common.build/Debug-iphoneos/Common.build/DerivedSources/armv7 -I/Users/PE-AGUTIERREZ/Dropbox/Dev/PoC/Common/build/Common.build/Debug-iphoneos/Common.build/DerivedSources -F/Users/PE-AGUTIERREZ/Library/Developer/Xcode/DerivedData/Base-ajwiwismeshculdsdjouxkmgccjy/Build/Products/Debug-iphoneos -include /var/folders/tn/q0y0fs296f74mvjbfh0fnxc00000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/Common-Prefix-dnlfkshqbcxlvcdwetywfnhofkgr/Common-Prefix.pch -MMD -MT dependencies -MF /Users/PE-AGUTIERREZ/Dropbox/Dev/PoC/Common/build/Common.build/Debug-iphoneos/Common.build/Objects-normal/armv7/AFHTTPRequestOperation.d --serialize-diagnostics /Users/PE-AGUTIERREZ/Dropbox/Dev/PoC/Common/build/Common.build/Debug-iphoneos/Common.build/Objects-normal/armv7/AFHTTPRequestOperation.dia -c /Users/PE-AGUTIERREZ/Dropbox/Dev/PoC/Common/Common/Infrastructure/Libraries/AFNetworking/AFHTTPRequestOperation.m -o /Users/PE-AGUTIERREZ/Dropbox/Dev/PoC/Common/build/Common.build/Debug-iphoneos/Common.build/Objects-normal/armv7/AFHTTPRequestOperation.o36"5338CDF3-025E-4107-B7D2-11FDA4BEB8A6-
+bD6F2E3A3-8942-402D-873B-B3493A09703D
+
+CCompileC build/Common.build/Debug-iphoneos/Common.build/Objects-normal/armv7/AFHTTPRequestOperationManager.o /Users/PE-AGUTIERREZ/Dropbox/Dev/PoC/Common/Common/Infrastructure/Libraries/AFNetworking/AFHTTPRequestOperationManager.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s427240444.365205
+e427240444.399382
+r0
+xCompileC
+xbuild/Common.build/Debug-iphoneos/Common.build/Objects-normal/armv7/AFHTTPRequestOperationManager.o
+x/Users/PE-AGUTIERREZ/Dropbox/Dev/PoC/Common/Common/Infrastructure/Libraries/AFNetworking/AFHTTPRequestOperationManager.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+ofatal error: file '/Users/PE-AGUTIERREZ/Dropbox/Dev/PoC/Common/Common/Infrastructure/Utility/Helpers/Macros/AVTLocalizationMacros.h' has been modified since the precompiled header '/var/folders/tn/q0y0fs296f74mvjbfh0fnxc00000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/Common-Prefix-dnlfkshqbcxlvcdwetywfnhofkgr/Common-Prefix.pch.pch' was built
+onote: after modifying system headers, please delete the module cache at '/var/folders/tn/q0y0fs296f74mvjbfh0fnxc00000gn/C/org.llvm.clang/ModuleCache/BRUQEXS6GIX5'
+o1 error generated.
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection128"Compile /Users/PE-AGUTIERREZ/Dropbox/Dev/PoC/Common/Common/Infrastructure/Libraries/AFNetworking/AFHTTPRequestOperationManager.m254"CompileC build/Common.build/Debug-iphoneos/Common.build/Objects-normal/armv7/AFHTTPRequestOperationManager.o Common/Infrastructure/Libraries/AFNetworking/AFHTTPRequestOperationManager.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compilerbfd65dfc2b77b941^8a5666fc2b77b941^-576"fatal error: file '/Users/PE-AGUTIERREZ/Dropbox/Dev/PoC/Common/Common/Infrastructure/Utility/Helpers/Macros/AVTLocalizationMacros.h' has been modified since the precompiled header '/var/folders/tn/q0y0fs296f74mvjbfh0fnxc00000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/Common-Prefix-dnlfkshqbcxlvcdwetywfnhofkgr/Common-Prefix.pch.pch' was builtnote: after modifying system headers, please delete the module cache at '/var/folders/tn/q0y0fs296f74mvjbfh0fnxc00000gn/C/org.llvm.clang/ModuleCache/BRUQEXS6GIX5'1 error generated.1(36%IDEClangDiagnosticActivityLogMessage2@380"File '/Users/PE-AGUTIERREZ/Dropbox/Dev/PoC/Common/Common/Infrastructure/Utility/Helpers/Macros/AVTLocalizationMacros.h' has been modified since the precompiled header '/var/folders/tn/q0y0fs296f74mvjbfh0fnxc00000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/Common-Prefix-dnlfkshqbcxlvcdwetywfnhofkgr/Common-Prefix.pch.pch' was built-427240444#18446744073709551615#0#1(2@156"After modifying system headers, please delete the module cache at '/var/folders/tn/q0y0fs296f74mvjbfh0fnxc00000gn/C/org.llvm.clang/ModuleCache/BRUQEXS6GIX5'-427240444#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic-21"Apple LLVM 5.1 Notice--2#27"com.apple.dt.IDE.diagnostic-20"Apple LLVM 5.1 Error--0#0#1#-19%DVTDocumentLocation3@127"file:///Users/PE-AGUTIERREZ/Dropbox/Dev/PoC/Common/Common/Infrastructure/Libraries/AFNetworking/AFHTTPRequestOperationManager.m0000000000000000^3452"CompileC build/Common.build/Debug-iphoneos/Common.build/Objects-normal/armv7/AFHTTPRequestOperationManager.o Common/Infrastructure/Libraries/AFNetworking/AFHTTPRequestOperationManager.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/PE-AGUTIERREZ/Dropbox/Dev/PoC/Common    export LANG=en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch armv7 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=7.1 -iquote /Users/PE-AGUTIERREZ/Dropbox/Dev/PoC/Common/build/Common.build/Debug-iphoneos/Common.build/Common-generated-files.hmap -I/Users/PE-AGUTIERREZ/Dropbox/Dev/PoC/Common/build/Common.build/Debug-iphoneos/Common.build/Common-own-target-headers.hmap -I/Users/PE-AGUTIERREZ/Dropbox/Dev/PoC/Common/build/Common.build/Debug-iphoneos/Common.build/Common-all-target-headers.hmap -iquote /Users/PE-AGUTIERREZ/Dropbox/Dev/PoC/Common/build/Common.build/Debug-iphoneos/Common.build/Common-project-headers.hmap -I/Users/PE-AGUTIERREZ/Library/Developer/Xcode/DerivedData/Base-ajwiwismeshculdsdjouxkmgccjy/Build/Products/Debug-iphoneos/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/PE-AGUTIERREZ/Dropbox/Dev/PoC/Common/build/Common.build/Debug-iphoneos/Common.build/DerivedSources/armv7 -I/Users/PE-AGUTIERREZ/Dropbox/Dev/PoC/Common/build/Common.build/Debug-iphoneos/Common.build/DerivedSources -F/Users/PE-AGUTIERREZ/Library/Developer/Xcode/DerivedData/Base-ajwiwismeshculdsdjouxkmgccjy/Build/Products/Debug-iphoneos -include /var/folders/tn/q0y0fs296f74mvjbfh0fnxc00000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/Common-Prefix-dnlfkshqbcxlvcdwetywfnhofkgr/Common-Prefix.pch -MMD -MT dependencies -MF /Users/PE-AGUTIERREZ/Dropbox/Dev/PoC/Common/build/Common.build/Debug-iphoneos/Common.build/Objects-normal/armv7/AFHTTPRequestOperationManager.d --serialize-diagnostics /Users/PE-AGUTIERREZ/Dropbox/Dev/PoC/Common/build/Common.build/Debug-iphoneos/Common.build/Objects-normal/armv7/AFHTTPRequestOperationManager.dia -c /Users/PE-AGUTIERREZ/Dropbox/Dev/PoC/Common/Common/Infrastructure/Libraries/AFNetworking/AFHTTPRequestOperationManager.m -o /Users/PE-AGUTIERREZ/Dropbox/Dev/PoC/Common/build/Common.build/Debug-iphoneos/Common.build/Objects-normal/armv7/AFHTTPRequestOperationManager.o36"C8767457-D9E0-4620-8DF7-100A1B59C42E-
+bD6F2E3A3-8942-402D-873B-B3493A09703D
+
+CCompileC build/Common.build/Debug-iphoneos/Common.build/Objects-normal/armv7/AFHTTPSessionManager.o /Users/PE-AGUTIERREZ/Dropbox/Dev/PoC/Common/Common/Infrastructure/Libraries/AFNetworking/AFHTTPSessionManager.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s427240444.365540
+e427240444.399532
+r0
+xCompileC
+xbuild/Common.build/Debug-iphoneos/Common.build/Objects-normal/armv7/AFHTTPSessionManager.o
+x/Users/PE-AGUTIERREZ/Dropbox/Dev/PoC/Common/Common/Infrastructure/Libraries/AFNetworking/AFHTTPSessionManager.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+ofatal error: file '/Users/PE-AGUTIERREZ/Dropbox/Dev/PoC/Common/Common/Infrastructure/Utility/Helpers/Macros/AVTLocalizationMacros.h' has been modified since the precompiled header '/var/folders/tn/q0y0fs296f74mvjbfh0fnxc00000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/Common-Prefix-dnlfkshqbcxlvcdwetywfnhofkgr/Common-Prefix.pch.pch' was built
+onote: after modifying system headers, please delete the module cache at '/var/folders/tn/q0y0fs296f74mvjbfh0fnxc00000gn/C/org.llvm.clang/ModuleCache/BRUQEXS6GIX5'
+o1 error generated.
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection119"Compile /Users/PE-AGUTIERREZ/Dropbox/Dev/PoC/Common/Common/Infrastructure/Libraries/AFNetworking/AFHTTPSessionManager.m236"CompileC build/Common.build/Debug-iphoneos/Common.build/Objects-normal/armv7/AFHTTPSessionManager.o Common/Infrastructure/Libraries/AFNetworking/AFHTTPSessionManager.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler25ea5dfc2b77b941^8f5166fc2b77b941^-576"fatal error: file '/Users/PE-AGUTIERREZ/Dropbox/Dev/PoC/Common/Common/Infrastructure/Utility/Helpers/Macros/AVTLocalizationMacros.h' has been modified since the precompiled header '/var/folders/tn/q0y0fs296f74mvjbfh0fnxc00000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/Common-Prefix-dnlfkshqbcxlvcdwetywfnhofkgr/Common-Prefix.pch.pch' was builtnote: after modifying system headers, please delete the module cache at '/var/folders/tn/q0y0fs296f74mvjbfh0fnxc00000gn/C/org.llvm.clang/ModuleCache/BRUQEXS6GIX5'1 error generated.1(36%IDEClangDiagnosticActivityLogMessage2@380"File '/Users/PE-AGUTIERREZ/Dropbox/Dev/PoC/Common/Common/Infrastructure/Utility/Helpers/Macros/AVTLocalizationMacros.h' has been modified since the precompiled header '/var/folders/tn/q0y0fs296f74mvjbfh0fnxc00000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/Common-Prefix-dnlfkshqbcxlvcdwetywfnhofkgr/Common-Prefix.pch.pch' was built-427240444#18446744073709551615#0#1(2@156"After modifying system headers, please delete the module cache at '/var/folders/tn/q0y0fs296f74mvjbfh0fnxc00000gn/C/org.llvm.clang/ModuleCache/BRUQEXS6GIX5'-427240444#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic-21"Apple LLVM 5.1 Notice--2#27"com.apple.dt.IDE.diagnostic-20"Apple LLVM 5.1 Error--0#0#1#-19%DVTDocumentLocation3@118"file:///Users/PE-AGUTIERREZ/Dropbox/Dev/PoC/Common/Common/Infrastructure/Libraries/AFNetworking/AFHTTPSessionManager.m0000000000000000^3398"CompileC build/Common.build/Debug-iphoneos/Common.build/Objects-normal/armv7/AFHTTPSessionManager.o Common/Infrastructure/Libraries/AFNetworking/AFHTTPSessionManager.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/PE-AGUTIERREZ/Dropbox/Dev/PoC/Common    export LANG=en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch armv7 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=7.1 -iquote /Users/PE-AGUTIERREZ/Dropbox/Dev/PoC/Common/build/Common.build/Debug-iphoneos/Common.build/Common-generated-files.hmap -I/Users/PE-AGUTIERREZ/Dropbox/Dev/PoC/Common/build/Common.build/Debug-iphoneos/Common.build/Common-own-target-headers.hmap -I/Users/PE-AGUTIERREZ/Dropbox/Dev/PoC/Common/build/Common.build/Debug-iphoneos/Common.build/Common-all-target-headers.hmap -iquote /Users/PE-AGUTIERREZ/Dropbox/Dev/PoC/Common/build/Common.build/Debug-iphoneos/Common.build/Common-project-headers.hmap -I/Users/PE-AGUTIERREZ/Library/Developer/Xcode/DerivedData/Base-ajwiwismeshculdsdjouxkmgccjy/Build/Products/Debug-iphoneos/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/PE-AGUTIERREZ/Dropbox/Dev/PoC/Common/build/Common.build/Debug-iphoneos/Common.build/DerivedSources/armv7 -I/Users/PE-AGUTIERREZ/Dropbox/Dev/PoC/Common/build/Common.build/Debug-iphoneos/Common.build/DerivedSources -F/Users/PE-AGUTIERREZ/Library/Developer/Xcode/DerivedData/Base-ajwiwismeshculdsdjouxkmgccjy/Build/Products/Debug-iphoneos -include /var/folders/tn/q0y0fs296f74mvjbfh0fnxc00000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/Common-Prefix-dnlfkshqbcxlvcdwetywfnhofkgr/Common-Prefix.pch -MMD -MT dependencies -MF /Users/PE-AGUTIERREZ/Dropbox/Dev/PoC/Common/build/Common.build/Debug-iphoneos/Common.build/Objects-normal/armv7/AFHTTPSessionManager.d --serialize-diagnostics /Users/PE-AGUTIERREZ/Dropbox/Dev/PoC/Common/build/Common.build/Debug-iphoneos/Common.build/Objects-normal/armv7/AFHTTPSessionManager.dia -c /Users/PE-AGUTIERREZ/Dropbox/Dev/PoC/Common/Common/Infrastructure/Libraries/AFNetworking/AFHTTPSessionManager.m -o /Users/PE-AGUTIERREZ/Dropbox/Dev/PoC/Common/build/Common.build/Debug-iphoneos/Common.build/Objects-normal/armv7/AFHTTPSessionManager.o36"AAA5035B-92C1-426C-93B7-96B6192934C2-
+bD6F2E3A3-8942-402D-873B-B3493A09703D
+
+CCompileC build/Common.build/Debug-iphoneos/Common.build/Objects-normal/armv7/AFNetworkActivityIndicatorManager.o /Users/PE-AGUTIERREZ/Dropbox/Dev/PoC/Common/Common/Infrastructure/Libraries/AFNetworking/UIKit+AFNetworking/AFNetworkActivityIndicatorManager.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/Common.build/Debug-iphoneos/Common.build/Objects-normal/armv7/AFNetworkReachabilityManager.o /Users/PE-AGUTIERREZ/Dropbox/Dev/PoC/Common/Common/Infrastructure/Libraries/AFNetworking/AFNetworkReachabilityManager.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s427240444.365907
+e427240444.399405
+r0
+xCompileC
+xbuild/Common.build/Debug-iphoneos/Common.build/Objects-normal/armv7/AFNetworkReachabilityManager.o
+x/Users/PE-AGUTIERREZ/Dropbox/Dev/PoC/Common/Common/Infrastructure/Libraries/AFNetworking/AFNetworkReachabilityManager.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+ofatal error: file '/Users/PE-AGUTIERREZ/Dropbox/Dev/PoC/Common/Common/Infrastructure/Utility/Helpers/Macros/AVTLocalizationMacros.h' has been modified since the precompiled header '/var/folders/tn/q0y0fs296f74mvjbfh0fnxc00000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/Common-Prefix-dnlfkshqbcxlvcdwetywfnhofkgr/Common-Prefix.pch.pch' was built
+onote: after modifying system headers, please delete the module cache at '/var/folders/tn/q0y0fs296f74mvjbfh0fnxc00000gn/C/org.llvm.clang/ModuleCache/BRUQEXS6GIX5'
+o1 error generated.
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection127"Compile /Users/PE-AGUTIERREZ/Dropbox/Dev/PoC/Common/Common/Infrastructure/Libraries/AFNetworking/AFNetworkReachabilityManager.m252"CompileC build/Common.build/Debug-iphoneos/Common.build/Objects-normal/armv7/AFNetworkReachabilityManager.o Common/Infrastructure/Libraries/AFNetworking/AFNetworkReachabilityManager.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compilere90a5efc2b77b941^984f66fc2b77b941^-576"fatal error: file '/Users/PE-AGUTIERREZ/Dropbox/Dev/PoC/Common/Common/Infrastructure/Utility/Helpers/Macros/AVTLocalizationMacros.h' has been modified since the precompiled header '/var/folders/tn/q0y0fs296f74mvjbfh0fnxc00000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/Common-Prefix-dnlfkshqbcxlvcdwetywfnhofkgr/Common-Prefix.pch.pch' was builtnote: after modifying system headers, please delete the module cache at '/var/folders/tn/q0y0fs296f74mvjbfh0fnxc00000gn/C/org.llvm.clang/ModuleCache/BRUQEXS6GIX5'1 error generated.1(36%IDEClangDiagnosticActivityLogMessage2@380"File '/Users/PE-AGUTIERREZ/Dropbox/Dev/PoC/Common/Common/Infrastructure/Utility/Helpers/Macros/AVTLocalizationMacros.h' has been modified since the precompiled header '/var/folders/tn/q0y0fs296f74mvjbfh0fnxc00000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/Common-Prefix-dnlfkshqbcxlvcdwetywfnhofkgr/Common-Prefix.pch.pch' was built-427240444#18446744073709551615#0#1(2@156"After modifying system headers, please delete the module cache at '/var/folders/tn/q0y0fs296f74mvjbfh0fnxc00000gn/C/org.llvm.clang/ModuleCache/BRUQEXS6GIX5'-427240444#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic-21"Apple LLVM 5.1 Notice--2#27"com.apple.dt.IDE.diagnostic-20"Apple LLVM 5.1 Error--0#0#1#-19%DVTDocumentLocation3@126"file:///Users/PE-AGUTIERREZ/Dropbox/Dev/PoC/Common/Common/Infrastructure/Libraries/AFNetworking/AFNetworkReachabilityManager.m0000000000000000^3446"CompileC build/Common.build/Debug-iphoneos/Common.build/Objects-normal/armv7/AFNetworkReachabilityManager.o Common/Infrastructure/Libraries/AFNetworking/AFNetworkReachabilityManager.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/PE-AGUTIERREZ/Dropbox/Dev/PoC/Common    export LANG=en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch armv7 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=7.1 -iquote /Users/PE-AGUTIERREZ/Dropbox/Dev/PoC/Common/build/Common.build/Debug-iphoneos/Common.build/Common-generated-files.hmap -I/Users/PE-AGUTIERREZ/Dropbox/Dev/PoC/Common/build/Common.build/Debug-iphoneos/Common.build/Common-own-target-headers.hmap -I/Users/PE-AGUTIERREZ/Dropbox/Dev/PoC/Common/build/Common.build/Debug-iphoneos/Common.build/Common-all-target-headers.hmap -iquote /Users/PE-AGUTIERREZ/Dropbox/Dev/PoC/Common/build/Common.build/Debug-iphoneos/Common.build/Common-project-headers.hmap -I/Users/PE-AGUTIERREZ/Library/Developer/Xcode/DerivedData/Base-ajwiwismeshculdsdjouxkmgccjy/Build/Products/Debug-iphoneos/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/PE-AGUTIERREZ/Dropbox/Dev/PoC/Common/build/Common.build/Debug-iphoneos/Common.build/DerivedSources/armv7 -I/Users/PE-AGUTIERREZ/Dropbox/Dev/PoC/Common/build/Common.build/Debug-iphoneos/Common.build/DerivedSources -F/Users/PE-AGUTIERREZ/Library/Developer/Xcode/DerivedData/Base-ajwiwismeshculdsdjouxkmgccjy/Build/Products/Debug-iphoneos -include /var/folders/tn/q0y0fs296f74mvjbfh0fnxc00000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/Common-Prefix-dnlfkshqbcxlvcdwetywfnhofkgr/Common-Prefix.pch -MMD -MT dependencies -MF /Users/PE-AGUTIERREZ/Dropbox/Dev/PoC/Common/build/Common.build/Debug-iphoneos/Common.build/Objects-normal/armv7/AFNetworkReachabilityManager.d --serialize-diagnostics /Users/PE-AGUTIERREZ/Dropbox/Dev/PoC/Common/build/Common.build/Debug-iphoneos/Common.build/Objects-normal/armv7/AFNetworkReachabilityManager.dia -c /Users/PE-AGUTIERREZ/Dropbox/Dev/PoC/Common/Common/Infrastructure/Libraries/AFNetworking/AFNetworkReachabilityManager.m -o /Users/PE-AGUTIERREZ/Dropbox/Dev/PoC/Common/build/Common.build/Debug-iphoneos/Common.build/Objects-normal/armv7/AFNetworkReachabilityManager.o36"90BE807F-91E0-4DB8-B7D2-72891DC1B0CE-
+bD6F2E3A3-8942-402D-873B-B3493A09703D
+
+CCompileC build/Common.build/Debug-iphoneos/Common.build/Objects-normal/armv7/AFSecurityPolicy.o /Users/PE-AGUTIERREZ/Dropbox/Dev/PoC/Common/Common/Infrastructure/Libraries/AFNetworking/AFSecurityPolicy.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s427240444.366374
+e427240444.399522
+r0
+xCompileC
+xbuild/Common.build/Debug-iphoneos/Common.build/Objects-normal/armv7/AFSecurityPolicy.o
+x/Users/PE-AGUTIERREZ/Dropbox/Dev/PoC/Common/Common/Infrastructure/Libraries/AFNetworking/AFSecurityPolicy.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+ofatal error: file '/Users/PE-AGUTIERREZ/Dropbox/Dev/PoC/Common/Common/Infrastructure/Utility/Helpers/Macros/AVTLocalizationMacros.h' has been modified since the precompiled header '/var/folders/tn/q0y0fs296f74mvjbfh0fnxc00000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/Common-Prefix-dnlfkshqbcxlvcdwetywfnhofkgr/Common-Prefix.pch.pch' was built
+onote: after modifying system headers, please delete the module cache at '/var/folders/tn/q0y0fs296f74mvjbfh0fnxc00000gn/C/org.llvm.clang/ModuleCache/BRUQEXS6GIX5'
+o1 error generated.
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection115"Compile /Users/PE-AGUTIERREZ/Dropbox/Dev/PoC/Common/Common/Infrastructure/Libraries/AFNetworking/AFSecurityPolicy.m228"CompileC build/Common.build/Debug-iphoneos/Common.build/Objects-normal/armv7/AFSecurityPolicy.o Common/Infrastructure/Libraries/AFNetworking/AFSecurityPolicy.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compilere82d5efc2b77b941^4d4d66fc2b77b941^-576"fatal error: file '/Users/PE-AGUTIERREZ/Dropbox/Dev/PoC/Common/Common/Infrastructure/Utility/Helpers/Macros/AVTLocalizationMacros.h' has been modified since the precompiled header '/var/folders/tn/q0y0fs296f74mvjbfh0fnxc00000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/Common-Prefix-dnlfkshqbcxlvcdwetywfnhofkgr/Common-Prefix.pch.pch' was builtnote: after modifying system headers, please delete the module cache at '/var/folders/tn/q0y0fs296f74mvjbfh0fnxc00000gn/C/org.llvm.clang/ModuleCache/BRUQEXS6GIX5'1 error generated.1(36%IDEClangDiagnosticActivityLogMessage2@380"File '/Users/PE-AGUTIERREZ/Dropbox/Dev/PoC/Common/Common/Infrastructure/Utility/Helpers/Macros/AVTLocalizationMacros.h' has been modified since the precompiled header '/var/folders/tn/q0y0fs296f74mvjbfh0fnxc00000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/Common-Prefix-dnlfkshqbcxlvcdwetywfnhofkgr/Common-Prefix.pch.pch' was built-427240444#18446744073709551615#0#1(2@156"After modifying system headers, please delete the module cache at '/var/folders/tn/q0y0fs296f74mvjbfh0fnxc00000gn/C/org.llvm.clang/ModuleCache/BRUQEXS6GIX5'-427240444#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic-21"Apple LLVM 5.1 Notice--2#27"com.apple.dt.IDE.diagnostic-20"Apple LLVM 5.1 Error--0#0#1#-19%DVTDocumentLocation3@114"file:///Users/PE-AGUTIERREZ/Dropbox/Dev/PoC/Common/Common/Infrastructure/Libraries/AFNetworking/AFSecurityPolicy.m0000000000000000^3374"CompileC build/Common.build/Debug-iphoneos/Common.build/Objects-normal/armv7/AFSecurityPolicy.o Common/Infrastructure/Libraries/AFNetworking/AFSecurityPolicy.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/PE-AGUTIERREZ/Dropbox/Dev/PoC/Common    export LANG=en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch armv7 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=7.1 -iquote /Users/PE-AGUTIERREZ/Dropbox/Dev/PoC/Common/build/Common.build/Debug-iphoneos/Common.build/Common-generated-files.hmap -I/Users/PE-AGUTIERREZ/Dropbox/Dev/PoC/Common/build/Common.build/Debug-iphoneos/Common.build/Common-own-target-headers.hmap -I/Users/PE-AGUTIERREZ/Dropbox/Dev/PoC/Common/build/Common.build/Debug-iphoneos/Common.build/Common-all-target-headers.hmap -iquote /Users/PE-AGUTIERREZ/Dropbox/Dev/PoC/Common/build/Common.build/Debug-iphoneos/Common.build/Common-project-headers.hmap -I/Users/PE-AGUTIERREZ/Library/Developer/Xcode/DerivedData/Base-ajwiwismeshculdsdjouxkmgccjy/Build/Products/Debug-iphoneos/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/PE-AGUTIERREZ/Dropbox/Dev/PoC/Common/build/Common.build/Debug-iphoneos/Common.build/DerivedSources/armv7 -I/Users/PE-AGUTIERREZ/Dropbox/Dev/PoC/Common/build/Common.build/Debug-iphoneos/Common.build/DerivedSources -F/Users/PE-AGUTIERREZ/Library/Developer/Xcode/DerivedData/Base-ajwiwismeshculdsdjouxkmgccjy/Build/Products/Debug-iphoneos -include /var/folders/tn/q0y0fs296f74mvjbfh0fnxc00000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/Common-Prefix-dnlfkshqbcxlvcdwetywfnhofkgr/Common-Prefix.pch -MMD -MT dependencies -MF /Users/PE-AGUTIERREZ/Dropbox/Dev/PoC/Common/build/Common.build/Debug-iphoneos/Common.build/Objects-normal/armv7/AFSecurityPolicy.d --serialize-diagnostics /Users/PE-AGUTIERREZ/Dropbox/Dev/PoC/Common/build/Common.build/Debug-iphoneos/Common.build/Objects-normal/armv7/AFSecurityPolicy.dia -c /Users/PE-AGUTIERREZ/Dropbox/Dev/PoC/Common/Common/Infrastructure/Libraries/AFNetworking/AFSecurityPolicy.m -o /Users/PE-AGUTIERREZ/Dropbox/Dev/PoC/Common/build/Common.build/Debug-iphoneos/Common.build/Objects-normal/armv7/AFSecurityPolicy.o36"1CB1765E-E0EB-4026-B7BE-7D660CD09270-
+bD6F2E3A3-8942-402D-873B-B3493A09703D
+
+CCompileC build/Common.build/Debug-iphoneos/Common.build/Objects-normal/armv7/AFURLConnectionOperation.o /Users/PE-AGUTIERREZ/Dropbox/Dev/PoC/Common/Common/Infrastructure/Libraries/AFNetworking/AFURLConnectionOperation.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s427240444.367581
+e427240444.399302
+r0
+xCompileC
+xbuild/Common.build/Debug-iphoneos/Common.build/Objects-normal/armv7/AFURLConnectionOperation.o
+x/Users/PE-AGUTIERREZ/Dropbox/Dev/PoC/Common/Common/Infrastructure/Libraries/AFNetworking/AFURLConnectionOperation.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+ofatal error: file '/Users/PE-AGUTIERREZ/Dropbox/Dev/PoC/Common/Common/Infrastructure/Utility/Helpers/Macros/AVTLocalizationMacros.h' has been modified since the precompiled header '/var/folders/tn/q0y0fs296f74mvjbfh0fnxc00000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/Common-Prefix-dnlfkshqbcxlvcdwetywfnhofkgr/Common-Prefix.pch.pch' was built
+onote: after modifying system headers, please delete the module cache at '/var/folders/tn/q0y0fs296f74mvjbfh0fnxc00000gn/C/org.llvm.clang/ModuleCache/BRUQEXS6GIX5'
+o1 error generated.
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection123"Compile /Users/PE-AGUTIERREZ/Dropbox/Dev/PoC/Common/Common/Infrastructure/Libraries/AFNetworking/AFURLConnectionOperation.m244"CompileC build/Common.build/Debug-iphoneos/Common.build/Objects-normal/armv7/AFURLConnectionOperation.o Common/Infrastructure/Libraries/AFNetworking/AFURLConnectionOperation.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler76a85efc2b77b941^fd3066fc2b77b941^-576"fatal error: file '/Users/PE-AGUTIERREZ/Dropbox/Dev/PoC/Common/Common/Infrastructure/Utility/Helpers/Macros/AVTLocalizationMacros.h' has been modified since the precompiled header '/var/folders/tn/q0y0fs296f74mvjbfh0fnxc00000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/Common-Prefix-dnlfkshqbcxlvcdwetywfnhofkgr/Common-Prefix.pch.pch' was builtnote: after modifying system headers, please delete the module cache at '/var/folders/tn/q0y0fs296f74mvjbfh0fnxc00000gn/C/org.llvm.clang/ModuleCache/BRUQEXS6GIX5'1 error generated.1(36%IDEClangDiagnosticActivityLogMessage2@380"File '/Users/PE-AGUTIERREZ/Dropbox/Dev/PoC/Common/Common/Infrastructure/Utility/Helpers/Macros/AVTLocalizationMacros.h' has been modified since the precompiled header '/var/folders/tn/q0y0fs296f74mvjbfh0fnxc00000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/Common-Prefix-dnlfkshqbcxlvcdwetywfnhofkgr/Common-Prefix.pch.pch' was built-427240444#18446744073709551615#0#1(2@156"After modifying system headers, please delete the module cache at '/var/folders/tn/q0y0fs296f74mvjbfh0fnxc00000gn/C/org.llvm.clang/ModuleCache/BRUQEXS6GIX5'-427240444#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic-21"Apple LLVM 5.1 Notice--2#27"com.apple.dt.IDE.diagnostic-20"Apple LLVM 5.1 Error--0#0#1#-19%DVTDocumentLocation3@122"file:///Users/PE-AGUTIERREZ/Dropbox/Dev/PoC/Common/Common/Infrastructure/Libraries/AFNetworking/AFURLConnectionOperation.m0000000000000000^3422"CompileC build/Common.build/Debug-iphoneos/Common.build/Objects-normal/armv7/AFURLConnectionOperation.o Common/Infrastructure/Libraries/AFNetworking/AFURLConnectionOperation.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/PE-AGUTIERREZ/Dropbox/Dev/PoC/Common    export LANG=en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch armv7 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=7.1 -iquote /Users/PE-AGUTIERREZ/Dropbox/Dev/PoC/Common/build/Common.build/Debug-iphoneos/Common.build/Common-generated-files.hmap -I/Users/PE-AGUTIERREZ/Dropbox/Dev/PoC/Common/build/Common.build/Debug-iphoneos/Common.build/Common-own-target-headers.hmap -I/Users/PE-AGUTIERREZ/Dropbox/Dev/PoC/Common/build/Common.build/Debug-iphoneos/Common.build/Common-all-target-headers.hmap -iquote /Users/PE-AGUTIERREZ/Dropbox/Dev/PoC/Common/build/Common.build/Debug-iphoneos/Common.build/Common-project-headers.hmap -I/Users/PE-AGUTIERREZ/Library/Developer/Xcode/DerivedData/Base-ajwiwismeshculdsdjouxkmgccjy/Build/Products/Debug-iphoneos/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/PE-AGUTIERREZ/Dropbox/Dev/PoC/Common/build/Common.build/Debug-iphoneos/Common.build/DerivedSources/armv7 -I/Users/PE-AGUTIERREZ/Dropbox/Dev/PoC/Common/build/Common.build/Debug-iphoneos/Common.build/DerivedSources -F/Users/PE-AGUTIERREZ/Library/Developer/Xcode/DerivedData/Base-ajwiwismeshculdsdjouxkmgccjy/Build/Products/Debug-iphoneos -include /var/folders/tn/q0y0fs296f74mvjbfh0fnxc00000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/Common-Prefix-dnlfkshqbcxlvcdwetywfnhofkgr/Common-Prefix.pch -MMD -MT dependencies -MF /Users/PE-AGUTIERREZ/Dropbox/Dev/PoC/Common/build/Common.build/Debug-iphoneos/Common.build/Objects-normal/armv7/AFURLConnectionOperation.d --serialize-diagnostics /Users/PE-AGUTIERREZ/Dropbox/Dev/PoC/Common/build/Common.build/Debug-iphoneos/Common.build/Objects-normal/armv7/AFURLConnectionOperation.dia -c /Users/PE-AGUTIERREZ/Dropbox/Dev/PoC/Common/Common/Infrastructure/Libraries/AFNetworking/AFURLConnectionOperation.m -o /Users/PE-AGUTIERREZ/Dropbox/Dev/PoC/Common/build/Common.build/Debug-iphoneos/Common.build/Objects-normal/armv7/AFURLConnectionOperation.o36"B7DFC798-34BB-4FE7-B448-ECB65EB96663-
+bD6F2E3A3-8942-402D-873B-B3493A09703D
+
+CCompileC build/Common.build/Debug-iphoneos/Common.build/Objects-normal/armv7/AFURLRequestSerialization.o /Users/PE-AGUTIERREZ/Dropbox/Dev/PoC/Common/Common/Infrastructure/Libraries/AFNetworking/AFURLRequestSerialization.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/Common.build/Debug-iphoneos/Common.build/Objects-normal/armv7/AFURLResponseSerialization.o /Users/PE-AGUTIERREZ/Dropbox/Dev/PoC/Common/Common/Infrastructure/Libraries/AFNetworking/AFURLResponseSerialization.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/Common.build/Debug-iphoneos/Common.build/Objects-normal/armv7/AFURLSessionManager.o /Users/PE-AGUTIERREZ/Dropbox/Dev/PoC/Common/Common/Infrastructure/Libraries/AFNetworking/AFURLSessionManager.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/Common.build/Debug-iphoneos/Common.build/Objects-normal/armv7/AVTAlertViewFactory.o /Users/PE-AGUTIERREZ/Dropbox/Dev/PoC/Common/Common/Infrastructure/Utility/Factories/AVTAlertViewFactory.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/Common.build/Debug-iphoneos/Common.build/Objects-normal/armv7/AVTAppDelegate.o /Users/PE-AGUTIERREZ/Dropbox/Dev/PoC/Common/Common/Supporting\ Files/AVTAppDelegate.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/Common.build/Debug-iphoneos/Common.build/Objects-normal/armv7/AVTBaseAppService.o /Users/PE-AGUTIERREZ/Dropbox/Dev/PoC/Common/Common/Application\ Core/Application\ Services/AVTBaseAppService.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s427240444.364454
+e427240444.399314
+r0
+xCompileC
+xbuild/Common.build/Debug-iphoneos/Common.build/Objects-normal/armv7/AVTBaseAppService.o
+x/Users/PE-AGUTIERREZ/Dropbox/Dev/PoC/Common/Common/Application Core/Application Services/AVTBaseAppService.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+ofatal error: file '/Users/PE-AGUTIERREZ/Dropbox/Dev/PoC/Common/Common/Infrastructure/Utility/Helpers/Macros/AVTLocalizationMacros.h' has been modified since the precompiled header '/var/folders/tn/q0y0fs296f74mvjbfh0fnxc00000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/Common-Prefix-dnlfkshqbcxlvcdwetywfnhofkgr/Common-Prefix.pch.pch' was built
+onote: after modifying system headers, please delete the module cache at '/var/folders/tn/q0y0fs296f74mvjbfh0fnxc00000gn/C/org.llvm.clang/ModuleCache/BRUQEXS6GIX5'
+o1 error generated.
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection116"Compile /Users/PE-AGUTIERREZ/Dropbox/Dev/PoC/Common/Common/Application Core/Application Services/AVTBaseAppService.m232"CompileC build/Common.build/Debug-iphoneos/Common.build/Objects-normal/armv7/AVTBaseAppService.o Common/Application\ Core/Application\ Services/AVTBaseAppService.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler289c5dfc2b77b941^c63566fc2b77b941^-576"fatal error: file '/Users/PE-AGUTIERREZ/Dropbox/Dev/PoC/Common/Common/Infrastructure/Utility/Helpers/Macros/AVTLocalizationMacros.h' has been modified since the precompiled header '/var/folders/tn/q0y0fs296f74mvjbfh0fnxc00000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/Common-Prefix-dnlfkshqbcxlvcdwetywfnhofkgr/Common-Prefix.pch.pch' was builtnote: after modifying system headers, please delete the module cache at '/var/folders/tn/q0y0fs296f74mvjbfh0fnxc00000gn/C/org.llvm.clang/ModuleCache/BRUQEXS6GIX5'1 error generated.1(36%IDEClangDiagnosticActivityLogMessage2@380"File '/Users/PE-AGUTIERREZ/Dropbox/Dev/PoC/Common/Common/Infrastructure/Utility/Helpers/Macros/AVTLocalizationMacros.h' has been modified since the precompiled header '/var/folders/tn/q0y0fs296f74mvjbfh0fnxc00000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/Common-Prefix-dnlfkshqbcxlvcdwetywfnhofkgr/Common-Prefix.pch.pch' was built-427240444#18446744073709551615#0#1(2@156"After modifying system headers, please delete the module cache at '/var/folders/tn/q0y0fs296f74mvjbfh0fnxc00000gn/C/org.llvm.clang/ModuleCache/BRUQEXS6GIX5'-427240444#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic-21"Apple LLVM 5.1 Notice--2#27"com.apple.dt.IDE.diagnostic-20"Apple LLVM 5.1 Error--0#0#1#-19%DVTDocumentLocation3@119"file:///Users/PE-AGUTIERREZ/Dropbox/Dev/PoC/Common/Common/Application%20Core/Application%20Services/AVTBaseAppService.m0000000000000000^3384"CompileC build/Common.build/Debug-iphoneos/Common.build/Objects-normal/armv7/AVTBaseAppService.o Common/Application\ Core/Application\ Services/AVTBaseAppService.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/PE-AGUTIERREZ/Dropbox/Dev/PoC/Common    export LANG=en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch armv7 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=7.1 -iquote /Users/PE-AGUTIERREZ/Dropbox/Dev/PoC/Common/build/Common.build/Debug-iphoneos/Common.build/Common-generated-files.hmap -I/Users/PE-AGUTIERREZ/Dropbox/Dev/PoC/Common/build/Common.build/Debug-iphoneos/Common.build/Common-own-target-headers.hmap -I/Users/PE-AGUTIERREZ/Dropbox/Dev/PoC/Common/build/Common.build/Debug-iphoneos/Common.build/Common-all-target-headers.hmap -iquote /Users/PE-AGUTIERREZ/Dropbox/Dev/PoC/Common/build/Common.build/Debug-iphoneos/Common.build/Common-project-headers.hmap -I/Users/PE-AGUTIERREZ/Library/Developer/Xcode/DerivedData/Base-ajwiwismeshculdsdjouxkmgccjy/Build/Products/Debug-iphoneos/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/PE-AGUTIERREZ/Dropbox/Dev/PoC/Common/build/Common.build/Debug-iphoneos/Common.build/DerivedSources/armv7 -I/Users/PE-AGUTIERREZ/Dropbox/Dev/PoC/Common/build/Common.build/Debug-iphoneos/Common.build/DerivedSources -F/Users/PE-AGUTIERREZ/Library/Developer/Xcode/DerivedData/Base-ajwiwismeshculdsdjouxkmgccjy/Build/Products/Debug-iphoneos -include /var/folders/tn/q0y0fs296f74mvjbfh0fnxc00000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/Common-Prefix-dnlfkshqbcxlvcdwetywfnhofkgr/Common-Prefix.pch -MMD -MT dependencies -MF /Users/PE-AGUTIERREZ/Dropbox/Dev/PoC/Common/build/Common.build/Debug-iphoneos/Common.build/Objects-normal/armv7/AVTBaseAppService.d --serialize-diagnostics /Users/PE-AGUTIERREZ/Dropbox/Dev/PoC/Common/build/Common.build/Debug-iphoneos/Common.build/Objects-normal/armv7/AVTBaseAppService.dia -c /Users/PE-AGUTIERREZ/Dropbox/Dev/PoC/Common/Common/Application\ Core/Application\ Services/AVTBaseAppService.m -o /Users/PE-AGUTIERREZ/Dropbox/Dev/PoC/Common/build/Common.build/Debug-iphoneos/Common.build/Objects-normal/armv7/AVTBaseAppService.o36"6A0EE5FF-C5A4-4704-BC88-751401D68178-
+bD6F2E3A3-8942-402D-873B-B3493A09703D
+
+CCompileC build/Common.build/Debug-iphoneos/Common.build/Objects-normal/armv7/AVTBaseAppearanceManager.o /Users/PE-AGUTIERREZ/Dropbox/Dev/PoC/Common/Common/Infrastructure/Utility/Helpers/AVTBaseAppearanceManager.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/Common.build/Debug-iphoneos/Common.build/Objects-normal/armv7/AVTBaseError.o /Users/PE-AGUTIERREZ/Dropbox/Dev/PoC/Common/Common/Infrastructure/Service\ Agents/NSErrors/AVTBaseError.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/Common.build/Debug-iphoneos/Common.build/Objects-normal/armv7/AVTBaseFactory.o /Users/PE-AGUTIERREZ/Dropbox/Dev/PoC/Common/Common/Infrastructure/Utility/Factories/AVTBaseFactory.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/Common.build/Debug-iphoneos/Common.build/Objects-normal/armv7/AVTBaseJSONModel.o /Users/PE-AGUTIERREZ/Dropbox/Dev/PoC/Common/Common/Application\ Core/Domain\ Model/AVTBaseJSONModel.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s427240444.364663
+e427240444.399390
+r0
+xCompileC
+xbuild/Common.build/Debug-iphoneos/Common.build/Objects-normal/armv7/AVTBaseJSONModel.o
+x/Users/PE-AGUTIERREZ/Dropbox/Dev/PoC/Common/Common/Application Core/Domain Model/AVTBaseJSONModel.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+ofatal error: file '/Users/PE-AGUTIERREZ/Dropbox/Dev/PoC/Common/Common/Infrastructure/Utility/Helpers/Macros/AVTLocalizationMacros.h' has been modified since the precompiled header '/var/folders/tn/q0y0fs296f74mvjbfh0fnxc00000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/Common-Prefix-dnlfkshqbcxlvcdwetywfnhofkgr/Common-Prefix.pch.pch' was built
+onote: after modifying system headers, please delete the module cache at '/var/folders/tn/q0y0fs296f74mvjbfh0fnxc00000gn/C/org.llvm.clang/ModuleCache/BRUQEXS6GIX5'
+o1 error generated.
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection107"Compile /Users/PE-AGUTIERREZ/Dropbox/Dev/PoC/Common/Common/Application Core/Domain Model/AVTBaseJSONModel.m222"CompileC build/Common.build/Debug-iphoneos/Common.build/Objects-normal/armv7/AVTBaseJSONModel.o Common/Application\ Core/Domain\ Model/AVTBaseJSONModel.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler09a75dfc2b77b941^603d66fc2b77b941^-576"fatal error: file '/Users/PE-AGUTIERREZ/Dropbox/Dev/PoC/Common/Common/Infrastructure/Utility/Helpers/Macros/AVTLocalizationMacros.h' has been modified since the precompiled header '/var/folders/tn/q0y0fs296f74mvjbfh0fnxc00000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/Common-Prefix-dnlfkshqbcxlvcdwetywfnhofkgr/Common-Prefix.pch.pch' was builtnote: after modifying system headers, please delete the module cache at '/var/folders/tn/q0y0fs296f74mvjbfh0fnxc00000gn/C/org.llvm.clang/ModuleCache/BRUQEXS6GIX5'1 error generated.1(36%IDEClangDiagnosticActivityLogMessage2@380"File '/Users/PE-AGUTIERREZ/Dropbox/Dev/PoC/Common/Common/Infrastructure/Utility/Helpers/Macros/AVTLocalizationMacros.h' has been modified since the precompiled header '/var/folders/tn/q0y0fs296f74mvjbfh0fnxc00000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/Common-Prefix-dnlfkshqbcxlvcdwetywfnhofkgr/Common-Prefix.pch.pch' was built-427240444#18446744073709551615#0#1(2@156"After modifying system headers, please delete the module cache at '/var/folders/tn/q0y0fs296f74mvjbfh0fnxc00000gn/C/org.llvm.clang/ModuleCache/BRUQEXS6GIX5'-427240444#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic-21"Apple LLVM 5.1 Notice--2#27"com.apple.dt.IDE.diagnostic-20"Apple LLVM 5.1 Error--0#0#1#-19%DVTDocumentLocation3@110"file:///Users/PE-AGUTIERREZ/Dropbox/Dev/PoC/Common/Common/Application%20Core/Domain%20Model/AVTBaseJSONModel.m0000000000000000^3362"CompileC build/Common.build/Debug-iphoneos/Common.build/Objects-normal/armv7/AVTBaseJSONModel.o Common/Application\ Core/Domain\ Model/AVTBaseJSONModel.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/PE-AGUTIERREZ/Dropbox/Dev/PoC/Common    export LANG=en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch armv7 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=7.1 -iquote /Users/PE-AGUTIERREZ/Dropbox/Dev/PoC/Common/build/Common.build/Debug-iphoneos/Common.build/Common-generated-files.hmap -I/Users/PE-AGUTIERREZ/Dropbox/Dev/PoC/Common/build/Common.build/Debug-iphoneos/Common.build/Common-own-target-headers.hmap -I/Users/PE-AGUTIERREZ/Dropbox/Dev/PoC/Common/build/Common.build/Debug-iphoneos/Common.build/Common-all-target-headers.hmap -iquote /Users/PE-AGUTIERREZ/Dropbox/Dev/PoC/Common/build/Common.build/Debug-iphoneos/Common.build/Common-project-headers.hmap -I/Users/PE-AGUTIERREZ/Library/Developer/Xcode/DerivedData/Base-ajwiwismeshculdsdjouxkmgccjy/Build/Products/Debug-iphoneos/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/PE-AGUTIERREZ/Dropbox/Dev/PoC/Common/build/Common.build/Debug-iphoneos/Common.build/DerivedSources/armv7 -I/Users/PE-AGUTIERREZ/Dropbox/Dev/PoC/Common/build/Common.build/Debug-iphoneos/Common.build/DerivedSources -F/Users/PE-AGUTIERREZ/Library/Developer/Xcode/DerivedData/Base-ajwiwismeshculdsdjouxkmgccjy/Build/Products/Debug-iphoneos -include /var/folders/tn/q0y0fs296f74mvjbfh0fnxc00000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/Common-Prefix-dnlfkshqbcxlvcdwetywfnhofkgr/Common-Prefix.pch -MMD -MT dependencies -MF /Users/PE-AGUTIERREZ/Dropbox/Dev/PoC/Common/build/Common.build/Debug-iphoneos/Common.build/Objects-normal/armv7/AVTBaseJSONModel.d --serialize-diagnostics /Users/PE-AGUTIERREZ/Dropbox/Dev/PoC/Common/build/Common.build/Debug-iphoneos/Common.build/Objects-normal/armv7/AVTBaseJSONModel.dia -c /Users/PE-AGUTIERREZ/Dropbox/Dev/PoC/Common/Common/Application\ Core/Domain\ Model/AVTBaseJSONModel.m -o /Users/PE-AGUTIERREZ/Dropbox/Dev/PoC/Common/build/Common.build/Debug-iphoneos/Common.build/Objects-normal/armv7/AVTBaseJSONModel.o36"95C0A877-888B-4FDE-B234-255C413C680B-
+bD6F2E3A3-8942-402D-873B-B3493A09703D
+
+CCompileC build/Common.build/Debug-iphoneos/Common.build/Objects-normal/armv7/AVTBaseServiceAgent.o /Users/PE-AGUTIERREZ/Dropbox/Dev/PoC/Common/Common/Infrastructure/Service\ Agents/AVTBaseServiceAgent.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/Common.build/Debug-iphoneos/Common.build/Objects-normal/armv7/AVTBaseTableViewController.o /Users/PE-AGUTIERREZ/Dropbox/Dev/PoC/Common/Common/User\ Interface/Controllers/Base/AVTBaseTableViewController.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/Common.build/Debug-iphoneos/Common.build/Objects-normal/armv7/AVTBaseViewController.o /Users/PE-AGUTIERREZ/Dropbox/Dev/PoC/Common/Common/User\ Interface/Controllers/Base/AVTBaseViewController.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/Common.build/Debug-iphoneos/Common.build/Objects-normal/armv7/AVTConnectivityError.o /Users/PE-AGUTIERREZ/Dropbox/Dev/PoC/Common/Common/Infrastructure/Service\ Agents/NSErrors/AVTConnectivityError.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/Common.build/Debug-iphoneos/Common.build/Objects-normal/armv7/AVTEditionDisabledTextField.o /Users/PE-AGUTIERREZ/Dropbox/Dev/PoC/Common/Common/User\ Interface/Views/UITextFields/AVTEditionDisabledTextField.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/Common.build/Debug-iphoneos/Common.build/Objects-normal/armv7/AVTErrorFactory.o /Users/PE-AGUTIERREZ/Dropbox/Dev/PoC/Common/Common/Infrastructure/Utility/Factories/AVTErrorFactory.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/Common.build/Debug-iphoneos/Common.build/Objects-normal/armv7/AVTHTTPError.o /Users/PE-AGUTIERREZ/Dropbox/Dev/PoC/Common/Common/Infrastructure/Service\ Agents/NSErrors/AVTHTTPError.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/Common.build/Debug-iphoneos/Common.build/Objects-normal/armv7/MRActivityIndicatorView.o /Users/PE-AGUTIERREZ/Dropbox/Dev/PoC/Common/Common/Infrastructure/Libraries/MRProgress/src/Components/MRActivityIndicatorView.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/Common.build/Debug-iphoneos/Common.build/Objects-normal/armv7/MRBlurView.o /Users/PE-AGUTIERREZ/Dropbox/Dev/PoC/Common/Common/Infrastructure/Libraries/MRProgress/src/Blur/MRBlurView.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/Common.build/Debug-iphoneos/Common.build/Objects-normal/armv7/MRCircularProgressView.o /Users/PE-AGUTIERREZ/Dropbox/Dev/PoC/Common/Common/Infrastructure/Libraries/MRProgress/src/Components/MRCircularProgressView.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/Common.build/Debug-iphoneos/Common.build/Objects-normal/armv7/MRIconView.o /Users/PE-AGUTIERREZ/Dropbox/Dev/PoC/Common/Common/Infrastructure/Libraries/MRProgress/src/Components/MRIconView.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/Common.build/Debug-iphoneos/Common.build/Objects-normal/armv7/MRMessageInterceptor.o /Users/PE-AGUTIERREZ/Dropbox/Dev/PoC/Common/Common/Infrastructure/Libraries/MRProgress/src/Utils/MRMessageInterceptor.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/Common.build/Debug-iphoneos/Common.build/Objects-normal/armv7/MRNavigationBarProgressView.o /Users/PE-AGUTIERREZ/Dropbox/Dev/PoC/Common/Common/Infrastructure/Libraries/MRProgress/src/Components/MRNavigationBarProgressView.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/Common.build/Debug-iphoneos/Common.build/Objects-normal/armv7/MRProgressOverlayView.o /Users/PE-AGUTIERREZ/Dropbox/Dev/PoC/Common/Common/Infrastructure/Libraries/MRProgress/src/Components/MRProgressOverlayView.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/Common.build/Debug-iphoneos/Common.build/Objects-normal/armv7/MRWeakProxy.o /Users/PE-AGUTIERREZ/Dropbox/Dev/PoC/Common/Common/Infrastructure/Libraries/MRProgress/src/Utils/MRWeakProxy.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/Common.build/Debug-iphoneos/Common.build/Objects-normal/armv7/NSAttributedString+Fonts.o /Users/PE-AGUTIERREZ/Dropbox/Dev/PoC/Common/Common/Infrastructure/Utility/Helpers/Categories/Foundation/NSAttributedString+Fonts.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/Common.build/Debug-iphoneos/Common.build/Objects-normal/armv7/NSDateFormatter+Singleton.o /Users/PE-AGUTIERREZ/Dropbox/Dev/PoC/Common/Common/Infrastructure/Utility/Helpers/Categories/Foundation/NSDateFormatter+Singleton.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/Common.build/Debug-iphoneos/Common.build/Objects-normal/armv7/NSString+Size.o /Users/PE-AGUTIERREZ/Dropbox/Dev/PoC/Common/Common/Infrastructure/Utility/Helpers/Categories/Foundation/NSString+Size.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/Common.build/Debug-iphoneos/Common.build/Objects-normal/armv7/PNTToolbar.o /Users/PE-AGUTIERREZ/Dropbox/Dev/PoC/Common/Common/Infrastructure/Libraries/PNTToolbar/PNTToolbar.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/Common.build/Debug-iphoneos/Common.build/Objects-normal/armv7/Reachability.o /Users/PE-AGUTIERREZ/Dropbox/Dev/PoC/Common/Common/Infrastructure/Libraries/Reachability/Reachability.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/Common.build/Debug-iphoneos/Common.build/Objects-normal/armv7/UIActivityIndicatorView+AFNetworking.o /Users/PE-AGUTIERREZ/Dropbox/Dev/PoC/Common/Common/Infrastructure/Libraries/AFNetworking/UIKit+AFNetworking/UIActivityIndicatorView+AFNetworking.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/Common.build/Debug-iphoneos/Common.build/Objects-normal/armv7/UIAlertView+AFNetworking.o /Users/PE-AGUTIERREZ/Dropbox/Dev/PoC/Common/Common/Infrastructure/Libraries/AFNetworking/UIKit+AFNetworking/UIAlertView+AFNetworking.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/Common.build/Debug-iphoneos/Common.build/Objects-normal/armv7/UIButton+AFNetworking.o /Users/PE-AGUTIERREZ/Dropbox/Dev/PoC/Common/Common/Infrastructure/Libraries/AFNetworking/UIKit+AFNetworking/UIButton+AFNetworking.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/Common.build/Debug-iphoneos/Common.build/Objects-normal/armv7/UIColor+CustomColors.o /Users/PE-AGUTIERREZ/Dropbox/Dev/PoC/Common/Common/Infrastructure/Utility/Helpers/Categories/UI/UIColor+CustomColors.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/Common.build/Debug-iphoneos/Common.build/Objects-normal/armv7/UIImage+MRImageEffects.o /Users/PE-AGUTIERREZ/Dropbox/Dev/PoC/Common/Common/Infrastructure/Libraries/MRProgress/src/Blur/UIImage+MRImageEffects.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/Common.build/Debug-iphoneos/Common.build/Objects-normal/armv7/UIImageView+AFNetworking.o /Users/PE-AGUTIERREZ/Dropbox/Dev/PoC/Common/Common/Infrastructure/Libraries/AFNetworking/UIKit+AFNetworking/UIImageView+AFNetworking.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/Common.build/Debug-iphoneos/Common.build/Objects-normal/armv7/UILabel+TextSize.o /Users/PE-AGUTIERREZ/Dropbox/Dev/PoC/Common/Common/Infrastructure/Utility/Helpers/Categories/UI/UILabel+TextSize.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/Common.build/Debug-iphoneos/Common.build/Objects-normal/armv7/UIProgressView+AFNetworking.o /Users/PE-AGUTIERREZ/Dropbox/Dev/PoC/Common/Common/Infrastructure/Libraries/AFNetworking/UIKit+AFNetworking/UIProgressView+AFNetworking.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/Common.build/Debug-iphoneos/Common.build/Objects-normal/armv7/UIRefreshControl+AFNetworking.o /Users/PE-AGUTIERREZ/Dropbox/Dev/PoC/Common/Common/Infrastructure/Libraries/AFNetworking/UIKit+AFNetworking/UIRefreshControl+AFNetworking.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/Common.build/Debug-iphoneos/Common.build/Objects-normal/armv7/UIWebView+AFNetworking.o /Users/PE-AGUTIERREZ/Dropbox/Dev/PoC/Common/Common/Infrastructure/Libraries/AFNetworking/UIKit+AFNetworking/UIWebView+AFNetworking.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/Common.build/Debug-iphoneos/Common.build/Objects-normal/armv7/main.o /Users/PE-AGUTIERREZ/Dropbox/Dev/PoC/Common/Common/Supporting\ Files/main.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/Common.build/Debug-iphoneos/Common.build/Objects-normal/armv7s/AFHTTPRequestOperation.o /Users/PE-AGUTIERREZ/Dropbox/Dev/PoC/Common/Common/Infrastructure/Libraries/AFNetworking/AFHTTPRequestOperation.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/Common.build/Debug-iphoneos/Common.build/Objects-normal/armv7s/AFHTTPRequestOperationManager.o /Users/PE-AGUTIERREZ/Dropbox/Dev/PoC/Common/Common/Infrastructure/Libraries/AFNetworking/AFHTTPRequestOperationManager.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/Common.build/Debug-iphoneos/Common.build/Objects-normal/armv7s/AFHTTPSessionManager.o /Users/PE-AGUTIERREZ/Dropbox/Dev/PoC/Common/Common/Infrastructure/Libraries/AFNetworking/AFHTTPSessionManager.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/Common.build/Debug-iphoneos/Common.build/Objects-normal/armv7s/AFNetworkActivityIndicatorManager.o /Users/PE-AGUTIERREZ/Dropbox/Dev/PoC/Common/Common/Infrastructure/Libraries/AFNetworking/UIKit+AFNetworking/AFNetworkActivityIndicatorManager.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/Common.build/Debug-iphoneos/Common.build/Objects-normal/armv7s/AFNetworkReachabilityManager.o /Users/PE-AGUTIERREZ/Dropbox/Dev/PoC/Common/Common/Infrastructure/Libraries/AFNetworking/AFNetworkReachabilityManager.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/Common.build/Debug-iphoneos/Common.build/Objects-normal/armv7s/AFSecurityPolicy.o /Users/PE-AGUTIERREZ/Dropbox/Dev/PoC/Common/Common/Infrastructure/Libraries/AFNetworking/AFSecurityPolicy.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/Common.build/Debug-iphoneos/Common.build/Objects-normal/armv7s/AFURLConnectionOperation.o /Users/PE-AGUTIERREZ/Dropbox/Dev/PoC/Common/Common/Infrastructure/Libraries/AFNetworking/AFURLConnectionOperation.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/Common.build/Debug-iphoneos/Common.build/Objects-normal/armv7s/AFURLRequestSerialization.o /Users/PE-AGUTIERREZ/Dropbox/Dev/PoC/Common/Common/Infrastructure/Libraries/AFNetworking/AFURLRequestSerialization.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/Common.build/Debug-iphoneos/Common.build/Objects-normal/armv7s/AFURLResponseSerialization.o /Users/PE-AGUTIERREZ/Dropbox/Dev/PoC/Common/Common/Infrastructure/Libraries/AFNetworking/AFURLResponseSerialization.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/Common.build/Debug-iphoneos/Common.build/Objects-normal/armv7s/AFURLSessionManager.o /Users/PE-AGUTIERREZ/Dropbox/Dev/PoC/Common/Common/Infrastructure/Libraries/AFNetworking/AFURLSessionManager.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/Common.build/Debug-iphoneos/Common.build/Objects-normal/armv7s/AVTAlertViewFactory.o /Users/PE-AGUTIERREZ/Dropbox/Dev/PoC/Common/Common/Infrastructure/Utility/Factories/AVTAlertViewFactory.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/Common.build/Debug-iphoneos/Common.build/Objects-normal/armv7s/AVTAppDelegate.o /Users/PE-AGUTIERREZ/Dropbox/Dev/PoC/Common/Common/Supporting\ Files/AVTAppDelegate.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/Common.build/Debug-iphoneos/Common.build/Objects-normal/armv7s/AVTBaseAppService.o /Users/PE-AGUTIERREZ/Dropbox/Dev/PoC/Common/Common/Application\ Core/Application\ Services/AVTBaseAppService.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/Common.build/Debug-iphoneos/Common.build/Objects-normal/armv7s/AVTBaseAppearanceManager.o /Users/PE-AGUTIERREZ/Dropbox/Dev/PoC/Common/Common/Infrastructure/Utility/Helpers/AVTBaseAppearanceManager.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/Common.build/Debug-iphoneos/Common.build/Objects-normal/armv7s/AVTBaseError.o /Users/PE-AGUTIERREZ/Dropbox/Dev/PoC/Common/Common/Infrastructure/Service\ Agents/NSErrors/AVTBaseError.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/Common.build/Debug-iphoneos/Common.build/Objects-normal/armv7s/AVTBaseFactory.o /Users/PE-AGUTIERREZ/Dropbox/Dev/PoC/Common/Common/Infrastructure/Utility/Factories/AVTBaseFactory.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/Common.build/Debug-iphoneos/Common.build/Objects-normal/armv7s/AVTBaseJSONModel.o /Users/PE-AGUTIERREZ/Dropbox/Dev/PoC/Common/Common/Application\ Core/Domain\ Model/AVTBaseJSONModel.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/Common.build/Debug-iphoneos/Common.build/Objects-normal/armv7s/AVTBaseServiceAgent.o /Users/PE-AGUTIERREZ/Dropbox/Dev/PoC/Common/Common/Infrastructure/Service\ Agents/AVTBaseServiceAgent.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/Common.build/Debug-iphoneos/Common.build/Objects-normal/armv7s/AVTBaseTableViewController.o /Users/PE-AGUTIERREZ/Dropbox/Dev/PoC/Common/Common/User\ Interface/Controllers/Base/AVTBaseTableViewController.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/Common.build/Debug-iphoneos/Common.build/Objects-normal/armv7s/AVTBaseViewController.o /Users/PE-AGUTIERREZ/Dropbox/Dev/PoC/Common/Common/User\ Interface/Controllers/Base/AVTBaseViewController.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/Common.build/Debug-iphoneos/Common.build/Objects-normal/armv7s/AVTConnectivityError.o /Users/PE-AGUTIERREZ/Dropbox/Dev/PoC/Common/Common/Infrastructure/Service\ Agents/NSErrors/AVTConnectivityError.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/Common.build/Debug-iphoneos/Common.build/Objects-normal/armv7s/AVTEditionDisabledTextField.o /Users/PE-AGUTIERREZ/Dropbox/Dev/PoC/Common/Common/User\ Interface/Views/UITextFields/AVTEditionDisabledTextField.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/Common.build/Debug-iphoneos/Common.build/Objects-normal/armv7s/AVTErrorFactory.o /Users/PE-AGUTIERREZ/Dropbox/Dev/PoC/Common/Common/Infrastructure/Utility/Factories/AVTErrorFactory.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/Common.build/Debug-iphoneos/Common.build/Objects-normal/armv7s/AVTHTTPError.o /Users/PE-AGUTIERREZ/Dropbox/Dev/PoC/Common/Common/Infrastructure/Service\ Agents/NSErrors/AVTHTTPError.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/Common.build/Debug-iphoneos/Common.build/Objects-normal/armv7s/MRActivityIndicatorView.o /Users/PE-AGUTIERREZ/Dropbox/Dev/PoC/Common/Common/Infrastructure/Libraries/MRProgress/src/Components/MRActivityIndicatorView.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/Common.build/Debug-iphoneos/Common.build/Objects-normal/armv7s/MRBlurView.o /Users/PE-AGUTIERREZ/Dropbox/Dev/PoC/Common/Common/Infrastructure/Libraries/MRProgress/src/Blur/MRBlurView.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/Common.build/Debug-iphoneos/Common.build/Objects-normal/armv7s/MRCircularProgressView.o /Users/PE-AGUTIERREZ/Dropbox/Dev/PoC/Common/Common/Infrastructure/Libraries/MRProgress/src/Components/MRCircularProgressView.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/Common.build/Debug-iphoneos/Common.build/Objects-normal/armv7s/MRIconView.o /Users/PE-AGUTIERREZ/Dropbox/Dev/PoC/Common/Common/Infrastructure/Libraries/MRProgress/src/Components/MRIconView.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/Common.build/Debug-iphoneos/Common.build/Objects-normal/armv7s/MRMessageInterceptor.o /Users/PE-AGUTIERREZ/Dropbox/Dev/PoC/Common/Common/Infrastructure/Libraries/MRProgress/src/Utils/MRMessageInterceptor.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/Common.build/Debug-iphoneos/Common.build/Objects-normal/armv7s/MRNavigationBarProgressView.o /Users/PE-AGUTIERREZ/Dropbox/Dev/PoC/Common/Common/Infrastructure/Libraries/MRProgress/src/Components/MRNavigationBarProgressView.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/Common.build/Debug-iphoneos/Common.build/Objects-normal/armv7s/MRProgressOverlayView.o /Users/PE-AGUTIERREZ/Dropbox/Dev/PoC/Common/Common/Infrastructure/Libraries/MRProgress/src/Components/MRProgressOverlayView.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/Common.build/Debug-iphoneos/Common.build/Objects-normal/armv7s/MRWeakProxy.o /Users/PE-AGUTIERREZ/Dropbox/Dev/PoC/Common/Common/Infrastructure/Libraries/MRProgress/src/Utils/MRWeakProxy.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/Common.build/Debug-iphoneos/Common.build/Objects-normal/armv7s/NSAttributedString+Fonts.o /Users/PE-AGUTIERREZ/Dropbox/Dev/PoC/Common/Common/Infrastructure/Utility/Helpers/Categories/Foundation/NSAttributedString+Fonts.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/Common.build/Debug-iphoneos/Common.build/Objects-normal/armv7s/NSDateFormatter+Singleton.o /Users/PE-AGUTIERREZ/Dropbox/Dev/PoC/Common/Common/Infrastructure/Utility/Helpers/Categories/Foundation/NSDateFormatter+Singleton.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/Common.build/Debug-iphoneos/Common.build/Objects-normal/armv7s/NSString+Size.o /Users/PE-AGUTIERREZ/Dropbox/Dev/PoC/Common/Common/Infrastructure/Utility/Helpers/Categories/Foundation/NSString+Size.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/Common.build/Debug-iphoneos/Common.build/Objects-normal/armv7s/PNTToolbar.o /Users/PE-AGUTIERREZ/Dropbox/Dev/PoC/Common/Common/Infrastructure/Libraries/PNTToolbar/PNTToolbar.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/Common.build/Debug-iphoneos/Common.build/Objects-normal/armv7s/Reachability.o /Users/PE-AGUTIERREZ/Dropbox/Dev/PoC/Common/Common/Infrastructure/Libraries/Reachability/Reachability.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/Common.build/Debug-iphoneos/Common.build/Objects-normal/armv7s/UIActivityIndicatorView+AFNetworking.o /Users/PE-AGUTIERREZ/Dropbox/Dev/PoC/Common/Common/Infrastructure/Libraries/AFNetworking/UIKit+AFNetworking/UIActivityIndicatorView+AFNetworking.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/Common.build/Debug-iphoneos/Common.build/Objects-normal/armv7s/UIAlertView+AFNetworking.o /Users/PE-AGUTIERREZ/Dropbox/Dev/PoC/Common/Common/Infrastructure/Libraries/AFNetworking/UIKit+AFNetworking/UIAlertView+AFNetworking.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/Common.build/Debug-iphoneos/Common.build/Objects-normal/armv7s/UIButton+AFNetworking.o /Users/PE-AGUTIERREZ/Dropbox/Dev/PoC/Common/Common/Infrastructure/Libraries/AFNetworking/UIKit+AFNetworking/UIButton+AFNetworking.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/Common.build/Debug-iphoneos/Common.build/Objects-normal/armv7s/UIColor+CustomColors.o /Users/PE-AGUTIERREZ/Dropbox/Dev/PoC/Common/Common/Infrastructure/Utility/Helpers/Categories/UI/UIColor+CustomColors.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/Common.build/Debug-iphoneos/Common.build/Objects-normal/armv7s/UIImage+MRImageEffects.o /Users/PE-AGUTIERREZ/Dropbox/Dev/PoC/Common/Common/Infrastructure/Libraries/MRProgress/src/Blur/UIImage+MRImageEffects.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/Common.build/Debug-iphoneos/Common.build/Objects-normal/armv7s/UIImageView+AFNetworking.o /Users/PE-AGUTIERREZ/Dropbox/Dev/PoC/Common/Common/Infrastructure/Libraries/AFNetworking/UIKit+AFNetworking/UIImageView+AFNetworking.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/Common.build/Debug-iphoneos/Common.build/Objects-normal/armv7s/UILabel+TextSize.o /Users/PE-AGUTIERREZ/Dropbox/Dev/PoC/Common/Common/Infrastructure/Utility/Helpers/Categories/UI/UILabel+TextSize.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/Common.build/Debug-iphoneos/Common.build/Objects-normal/armv7s/UIProgressView+AFNetworking.o /Users/PE-AGUTIERREZ/Dropbox/Dev/PoC/Common/Common/Infrastructure/Libraries/AFNetworking/UIKit+AFNetworking/UIProgressView+AFNetworking.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/Common.build/Debug-iphoneos/Common.build/Objects-normal/armv7s/UIRefreshControl+AFNetworking.o /Users/PE-AGUTIERREZ/Dropbox/Dev/PoC/Common/Common/Infrastructure/Libraries/AFNetworking/UIKit+AFNetworking/UIRefreshControl+AFNetworking.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/Common.build/Debug-iphoneos/Common.build/Objects-normal/armv7s/UIWebView+AFNetworking.o /Users/PE-AGUTIERREZ/Dropbox/Dev/PoC/Common/Common/Infrastructure/Libraries/AFNetworking/UIKit+AFNetworking/UIWebView+AFNetworking.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/Common.build/Debug-iphoneos/Common.build/Objects-normal/armv7s/main.o /Users/PE-AGUTIERREZ/Dropbox/Dev/PoC/Common/Common/Supporting\ Files/main.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCreateUniversalBinary /Users/PE-AGUTIERREZ/Library/Developer/Xcode/DerivedData/Base-ajwiwismeshculdsdjouxkmgccjy/Build/Products/Debug-iphoneos/libCommon.a normal armv7\ armv7s\ arm64
+r0
+
+CLibtool /Users/PE-AGUTIERREZ/Dropbox/Dev/PoC/Common/build/Common.build/Debug-iphoneos/Common.build/Objects-normal/arm64/libCommon.a normal arm64
+r0
+
+CLibtool /Users/PE-AGUTIERREZ/Dropbox/Dev/PoC/Common/build/Common.build/Debug-iphoneos/Common.build/Objects-normal/armv7/libCommon.a normal armv7
+r0
+
+CLibtool /Users/PE-AGUTIERREZ/Dropbox/Dev/PoC/Common/build/Common.build/Debug-iphoneos/Common.build/Objects-normal/armv7s/libCommon.a normal armv7s
+r0
+
+CPBXCp Common/Application\ Core/Application\ Services/AVTBaseAppService.h /Users/PE-AGUTIERREZ/Library/Developer/Xcode/DerivedData/Base-ajwiwismeshculdsdjouxkmgccjy/Build/Products/Debug-iphoneos/include/Common/AVTBaseAppService.h
+r0
+
+CPBXCp Common/Application\ Core/Domain\ Model/AVTBaseJSONModel.h /Users/PE-AGUTIERREZ/Library/Developer/Xcode/DerivedData/Base-ajwiwismeshculdsdjouxkmgccjy/Build/Products/Debug-iphoneos/include/Common/AVTBaseJSONModel.h
+r0
+
+CPBXCp Common/Infrastructure/Libraries/AFNetworking/AFHTTPRequestOperation.h /Users/PE-AGUTIERREZ/Library/Developer/Xcode/DerivedData/Base-ajwiwismeshculdsdjouxkmgccjy/Build/Products/Debug-iphoneos/include/Common/AFHTTPRequestOperation.h
+r0
+
+CPBXCp Common/Infrastructure/Libraries/AFNetworking/AFHTTPRequestOperationManager.h /Users/PE-AGUTIERREZ/Library/Developer/Xcode/DerivedData/Base-ajwiwismeshculdsdjouxkmgccjy/Build/Products/Debug-iphoneos/include/Common/AFHTTPRequestOperationManager.h
+r0
+
+CPBXCp Common/Infrastructure/Libraries/AFNetworking/AFHTTPSessionManager.h /Users/PE-AGUTIERREZ/Library/Developer/Xcode/DerivedData/Base-ajwiwismeshculdsdjouxkmgccjy/Build/Products/Debug-iphoneos/include/Common/AFHTTPSessionManager.h
+r0
+
+CPBXCp Common/Infrastructure/Libraries/AFNetworking/AFNetworkReachabilityManager.h /Users/PE-AGUTIERREZ/Library/Developer/Xcode/DerivedData/Base-ajwiwismeshculdsdjouxkmgccjy/Build/Products/Debug-iphoneos/include/Common/AFNetworkReachabilityManager.h
+r0
+
+CPBXCp Common/Infrastructure/Libraries/AFNetworking/AFNetworking.h /Users/PE-AGUTIERREZ/Library/Developer/Xcode/DerivedData/Base-ajwiwismeshculdsdjouxkmgccjy/Build/Products/Debug-iphoneos/include/Common/AFNetworking.h
+r0
+
+CPBXCp Common/Infrastructure/Libraries/AFNetworking/AFSecurityPolicy.h /Users/PE-AGUTIERREZ/Library/Developer/Xcode/DerivedData/Base-ajwiwismeshculdsdjouxkmgccjy/Build/Products/Debug-iphoneos/include/Common/AFSecurityPolicy.h
+r0
+
+CPBXCp Common/Infrastructure/Libraries/AFNetworking/AFURLConnectionOperation.h /Users/PE-AGUTIERREZ/Library/Developer/Xcode/DerivedData/Base-ajwiwismeshculdsdjouxkmgccjy/Build/Products/Debug-iphoneos/include/Common/AFURLConnectionOperation.h
+r0
+
+CPBXCp Common/Infrastructure/Libraries/AFNetworking/AFURLRequestSerialization.h /Users/PE-AGUTIERREZ/Library/Developer/Xcode/DerivedData/Base-ajwiwismeshculdsdjouxkmgccjy/Build/Products/Debug-iphoneos/include/Common/AFURLRequestSerialization.h
+r0
+
+CPBXCp Common/Infrastructure/Libraries/AFNetworking/AFURLResponseSerialization.h /Users/PE-AGUTIERREZ/Library/Developer/Xcode/DerivedData/Base-ajwiwismeshculdsdjouxkmgccjy/Build/Products/Debug-iphoneos/include/Common/AFURLResponseSerialization.h
+r0
+
+CPBXCp Common/Infrastructure/Libraries/AFNetworking/AFURLSessionManager.h /Users/PE-AGUTIERREZ/Library/Developer/Xcode/DerivedData/Base-ajwiwismeshculdsdjouxkmgccjy/Build/Products/Debug-iphoneos/include/Common/AFURLSessionManager.h
+r0
+
+CPBXCp Common/Infrastructure/Libraries/AFNetworking/UIKit+AFNetworking/AFNetworkActivityIndicatorManager.h /Users/PE-AGUTIERREZ/Library/Developer/Xcode/DerivedData/Base-ajwiwismeshculdsdjouxkmgccjy/Build/Products/Debug-iphoneos/include/Common/AFNetworkActivityIndicatorManager.h
+r0
+
+CPBXCp Common/Infrastructure/Libraries/AFNetworking/UIKit+AFNetworking/UIActivityIndicatorView+AFNetworking.h /Users/PE-AGUTIERREZ/Library/Developer/Xcode/DerivedData/Base-ajwiwismeshculdsdjouxkmgccjy/Build/Products/Debug-iphoneos/include/Common/UIActivityIndicatorView+AFNetworking.h
+r0
+
+CPBXCp Common/Infrastructure/Libraries/AFNetworking/UIKit+AFNetworking/UIAlertView+AFNetworking.h /Users/PE-AGUTIERREZ/Library/Developer/Xcode/DerivedData/Base-ajwiwismeshculdsdjouxkmgccjy/Build/Products/Debug-iphoneos/include/Common/UIAlertView+AFNetworking.h
+r0
+
+CPBXCp Common/Infrastructure/Libraries/AFNetworking/UIKit+AFNetworking/UIButton+AFNetworking.h /Users/PE-AGUTIERREZ/Library/Developer/Xcode/DerivedData/Base-ajwiwismeshculdsdjouxkmgccjy/Build/Products/Debug-iphoneos/include/Common/UIButton+AFNetworking.h
+r0
+
+CPBXCp Common/Infrastructure/Libraries/AFNetworking/UIKit+AFNetworking/UIImageView+AFNetworking.h /Users/PE-AGUTIERREZ/Library/Developer/Xcode/DerivedData/Base-ajwiwismeshculdsdjouxkmgccjy/Build/Products/Debug-iphoneos/include/Common/UIImageView+AFNetworking.h
+r0
+
+CPBXCp Common/Infrastructure/Libraries/AFNetworking/UIKit+AFNetworking/UIKit+AFNetworking.h /Users/PE-AGUTIERREZ/Library/Developer/Xcode/DerivedData/Base-ajwiwismeshculdsdjouxkmgccjy/Build/Products/Debug-iphoneos/include/Common/UIKit+AFNetworking.h
+r0
+
+CPBXCp Common/Infrastructure/Libraries/AFNetworking/UIKit+AFNetworking/UIProgressView+AFNetworking.h /Users/PE-AGUTIERREZ/Library/Developer/Xcode/DerivedData/Base-ajwiwismeshculdsdjouxkmgccjy/Build/Products/Debug-iphoneos/include/Common/UIProgressView+AFNetworking.h
+r0
+
+CPBXCp Common/Infrastructure/Libraries/AFNetworking/UIKit+AFNetworking/UIRefreshControl+AFNetworking.h /Users/PE-AGUTIERREZ/Library/Developer/Xcode/DerivedData/Base-ajwiwismeshculdsdjouxkmgccjy/Build/Products/Debug-iphoneos/include/Common/UIRefreshControl+AFNetworking.h
+r0
+
+CPBXCp Common/Infrastructure/Libraries/AFNetworking/UIKit+AFNetworking/UIWebView+AFNetworking.h /Users/PE-AGUTIERREZ/Library/Developer/Xcode/DerivedData/Base-ajwiwismeshculdsdjouxkmgccjy/Build/Products/Debug-iphoneos/include/Common/UIWebView+AFNetworking.h
+r0
+
+CPBXCp Common/Infrastructure/Libraries/MRProgress/src/Blur/MRBlurView.h /Users/PE-AGUTIERREZ/Library/Developer/Xcode/DerivedData/Base-ajwiwismeshculdsdjouxkmgccjy/Build/Products/Debug-iphoneos/include/Common/MRBlurView.h
+r0
+
+CPBXCp Common/Infrastructure/Libraries/MRProgress/src/Blur/UIImage+MRImageEffects.h /Users/PE-AGUTIERREZ/Library/Developer/Xcode/DerivedData/Base-ajwiwismeshculdsdjouxkmgccjy/Build/Products/Debug-iphoneos/include/Common/UIImage+MRImageEffects.h
+r0
+
+CPBXCp Common/Infrastructure/Libraries/MRProgress/src/Components/MRActivityIndicatorView.h /Users/PE-AGUTIERREZ/Library/Developer/Xcode/DerivedData/Base-ajwiwismeshculdsdjouxkmgccjy/Build/Products/Debug-iphoneos/include/Common/MRActivityIndicatorView.h
+r0
+
+CPBXCp Common/Infrastructure/Libraries/MRProgress/src/Components/MRCircularProgressView.h /Users/PE-AGUTIERREZ/Library/Developer/Xcode/DerivedData/Base-ajwiwismeshculdsdjouxkmgccjy/Build/Products/Debug-iphoneos/include/Common/MRCircularProgressView.h
+r0
+
+CPBXCp Common/Infrastructure/Libraries/MRProgress/src/Components/MRIconView.h /Users/PE-AGUTIERREZ/Library/Developer/Xcode/DerivedData/Base-ajwiwismeshculdsdjouxkmgccjy/Build/Products/Debug-iphoneos/include/Common/MRIconView.h
+r0
+
+CPBXCp Common/Infrastructure/Libraries/MRProgress/src/Components/MRNavigationBarProgressView.h /Users/PE-AGUTIERREZ/Library/Developer/Xcode/DerivedData/Base-ajwiwismeshculdsdjouxkmgccjy/Build/Products/Debug-iphoneos/include/Common/MRNavigationBarProgressView.h
+r0
+
+CPBXCp Common/Infrastructure/Libraries/MRProgress/src/Components/MRProgressOverlayView.h /Users/PE-AGUTIERREZ/Library/Developer/Xcode/DerivedData/Base-ajwiwismeshculdsdjouxkmgccjy/Build/Products/Debug-iphoneos/include/Common/MRProgressOverlayView.h
+r0
+
+CPBXCp Common/Infrastructure/Libraries/MRProgress/src/MRProgress.h /Users/PE-AGUTIERREZ/Library/Developer/Xcode/DerivedData/Base-ajwiwismeshculdsdjouxkmgccjy/Build/Products/Debug-iphoneos/include/Common/MRProgress.h
+r0
+
+CPBXCp Common/Infrastructure/Libraries/MRProgress/src/Utils/MRMessageInterceptor.h /Users/PE-AGUTIERREZ/Library/Developer/Xcode/DerivedData/Base-ajwiwismeshculdsdjouxkmgccjy/Build/Products/Debug-iphoneos/include/Common/MRMessageInterceptor.h
+r0
+
+CPBXCp Common/Infrastructure/Libraries/MRProgress/src/Utils/MRProgressHelper.h /Users/PE-AGUTIERREZ/Library/Developer/Xcode/DerivedData/Base-ajwiwismeshculdsdjouxkmgccjy/Build/Products/Debug-iphoneos/include/Common/MRProgressHelper.h
+r0
+
+CPBXCp Common/Infrastructure/Libraries/MRProgress/src/Utils/MRWeakProxy.h /Users/PE-AGUTIERREZ/Library/Developer/Xcode/DerivedData/Base-ajwiwismeshculdsdjouxkmgccjy/Build/Products/Debug-iphoneos/include/Common/MRWeakProxy.h
+r0
+
+CPBXCp Common/Infrastructure/Libraries/PNTToolbar/PNTToolbar.h /Users/PE-AGUTIERREZ/Library/Developer/Xcode/DerivedData/Base-ajwiwismeshculdsdjouxkmgccjy/Build/Products/Debug-iphoneos/include/Common/PNTToolbar.h
+r0
+
+CPBXCp Common/Infrastructure/Libraries/Reachability/Reachability.h /Users/PE-AGUTIERREZ/Library/Developer/Xcode/DerivedData/Base-ajwiwismeshculdsdjouxkmgccjy/Build/Products/Debug-iphoneos/include/Common/Reachability.h
+r0
+
+CPBXCp Common/Infrastructure/Service\ Agents/AVTBaseServiceAgent.h /Users/PE-AGUTIERREZ/Library/Developer/Xcode/DerivedData/Base-ajwiwismeshculdsdjouxkmgccjy/Build/Products/Debug-iphoneos/include/Common/AVTBaseServiceAgent.h
+r0
+
+CPBXCp Common/Infrastructure/Service\ Agents/NSErrors/AVTBaseError.h /Users/PE-AGUTIERREZ/Library/Developer/Xcode/DerivedData/Base-ajwiwismeshculdsdjouxkmgccjy/Build/Products/Debug-iphoneos/include/Common/AVTBaseError.h
+r0
+
+CPBXCp Common/Infrastructure/Service\ Agents/NSErrors/AVTConnectivityError.h /Users/PE-AGUTIERREZ/Library/Developer/Xcode/DerivedData/Base-ajwiwismeshculdsdjouxkmgccjy/Build/Products/Debug-iphoneos/include/Common/AVTConnectivityError.h
+r0
+
+CPBXCp Common/Infrastructure/Service\ Agents/NSErrors/AVTHTTPError.h /Users/PE-AGUTIERREZ/Library/Developer/Xcode/DerivedData/Base-ajwiwismeshculdsdjouxkmgccjy/Build/Products/Debug-iphoneos/include/Common/AVTHTTPError.h
+r0
+
+CPBXCp Common/Infrastructure/Utility/Factories/AVTAlertViewFactory.h /Users/PE-AGUTIERREZ/Library/Developer/Xcode/DerivedData/Base-ajwiwismeshculdsdjouxkmgccjy/Build/Products/Debug-iphoneos/include/Common/AVTAlertViewFactory.h
+r0
+
+CPBXCp Common/Infrastructure/Utility/Factories/AVTBaseFactory.h /Users/PE-AGUTIERREZ/Library/Developer/Xcode/DerivedData/Base-ajwiwismeshculdsdjouxkmgccjy/Build/Products/Debug-iphoneos/include/Common/AVTBaseFactory.h
+r0
+
+CPBXCp Common/Infrastructure/Utility/Factories/AVTErrorFactory.h /Users/PE-AGUTIERREZ/Library/Developer/Xcode/DerivedData/Base-ajwiwismeshculdsdjouxkmgccjy/Build/Products/Debug-iphoneos/include/Common/AVTErrorFactory.h
+r0
+
+CPBXCp Common/Infrastructure/Utility/Helpers/AVTBaseAppearanceManager.h /Users/PE-AGUTIERREZ/Library/Developer/Xcode/DerivedData/Base-ajwiwismeshculdsdjouxkmgccjy/Build/Products/Debug-iphoneos/include/Common/AVTBaseAppearanceManager.h
+r0
+
+CPBXCp Common/Infrastructure/Utility/Helpers/Categories/Foundation/NSAttributedString+Fonts.h /Users/PE-AGUTIERREZ/Library/Developer/Xcode/DerivedData/Base-ajwiwismeshculdsdjouxkmgccjy/Build/Products/Debug-iphoneos/include/Common/NSAttributedString+Fonts.h
+r0
+
+CPBXCp Common/Infrastructure/Utility/Helpers/Categories/Foundation/NSDateFormatter+Singleton.h /Users/PE-AGUTIERREZ/Library/Developer/Xcode/DerivedData/Base-ajwiwismeshculdsdjouxkmgccjy/Build/Products/Debug-iphoneos/include/Common/NSDateFormatter+Singleton.h
+r0
+
+CPBXCp Common/Infrastructure/Utility/Helpers/Categories/Foundation/NSString+Size.h /Users/PE-AGUTIERREZ/Library/Developer/Xcode/DerivedData/Base-ajwiwismeshculdsdjouxkmgccjy/Build/Products/Debug-iphoneos/include/Common/NSString+Size.h
+r0
+
+CPBXCp Common/Infrastructure/Utility/Helpers/Categories/UI/UIColor+CustomColors.h /Users/PE-AGUTIERREZ/Library/Developer/Xcode/DerivedData/Base-ajwiwismeshculdsdjouxkmgccjy/Build/Products/Debug-iphoneos/include/Common/UIColor+CustomColors.h
+r0
+
+CPBXCp Common/Infrastructure/Utility/Helpers/Categories/UI/UILabel+TextSize.h /Users/PE-AGUTIERREZ/Library/Developer/Xcode/DerivedData/Base-ajwiwismeshculdsdjouxkmgccjy/Build/Products/Debug-iphoneos/include/Common/UILabel+TextSize.h
+r0
+
+CPBXCp Common/Infrastructure/Utility/Helpers/Macros/AVTLocalizationMacros.h /Users/PE-AGUTIERREZ/Library/Developer/Xcode/DerivedData/Base-ajwiwismeshculdsdjouxkmgccjy/Build/Products/Debug-iphoneos/include/Common/AVTLocalizationMacros.h
+r0
+
+CPBXCp Common/Infrastructure/Utility/Resources/Images.xcassets /Users/PE-AGUTIERREZ/Library/Developer/Xcode/DerivedData/Base-ajwiwismeshculdsdjouxkmgccjy/Build/Products/Debug-iphoneos/include/Common/Images.xcassets
+r0
+
+CPBXCp Common/Supporting\ Files/AVTAppDelegate.h /Users/PE-AGUTIERREZ/Library/Developer/Xcode/DerivedData/Base-ajwiwismeshculdsdjouxkmgccjy/Build/Products/Debug-iphoneos/include/Common/AVTAppDelegate.h
+r0
+
+CPBXCp Common/Supporting\ Files/Common-Info.plist /Users/PE-AGUTIERREZ/Library/Developer/Xcode/DerivedData/Base-ajwiwismeshculdsdjouxkmgccjy/Build/Products/Debug-iphoneos/include/Common/Common-Info.plist
+r0
+
+CPBXCp Common/User\ Interface/Controllers/Base/AVTBaseTableViewController.h /Users/PE-AGUTIERREZ/Library/Developer/Xcode/DerivedData/Base-ajwiwismeshculdsdjouxkmgccjy/Build/Products/Debug-iphoneos/include/Common/AVTBaseTableViewController.h
+r0
+
+CPBXCp Common/User\ Interface/Controllers/Base/AVTBaseViewController.h /Users/PE-AGUTIERREZ/Library/Developer/Xcode/DerivedData/Base-ajwiwismeshculdsdjouxkmgccjy/Build/Products/Debug-iphoneos/include/Common/AVTBaseViewController.h
+r0
+
+CPBXCp Common/User\ Interface/Views/UITextFields/AVTEditionDisabledTextField.h /Users/PE-AGUTIERREZ/Library/Developer/Xcode/DerivedData/Base-ajwiwismeshculdsdjouxkmgccjy/Build/Products/Debug-iphoneos/include/Common/AVTEditionDisabledTextField.h
+r0
+
+CProcessPCH /var/folders/tn/q0y0fs296f74mvjbfh0fnxc00000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/Common-Prefix-dnlfkshqbcxlvcdwetywfnhofkgr/Common-Prefix.pch.pch Common/Supporting\ Files/Common-Prefix.pch normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CProcessPCH /var/folders/tn/q0y0fs296f74mvjbfh0fnxc00000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/Common-Prefix-euzrorldkkotboallctnezkpbxoa/Common-Prefix.pch.pch Common/Supporting\ Files/Common-Prefix.pch normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CProcessPCH /var/folders/tn/q0y0fs296f74mvjbfh0fnxc00000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/Common-Prefix-gxtejhddffgiuoaqsnfqdqujkdfy/Common-Prefix.pch.pch Common/Supporting\ Files/Common-Prefix.pch normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+

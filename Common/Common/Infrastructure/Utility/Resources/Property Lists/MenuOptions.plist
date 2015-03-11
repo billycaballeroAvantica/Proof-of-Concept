@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Menus</key>
+	<array>
+		<array>
+			<dict>
+				<key>MenuTitle</key>
+				<string>Solicitud de Estado de Cuenta por E-mail</string>
+				<key>MenuEnum</key>
+				<string>1</string>
+			</dict>
+			<dict>
+				<key>MenuTitle</key>
+				<string>Cambio de Clave</string>
+				<key>MenuEnum</key>
+				<integer>2</integer>
+			</dict>
+		</array>
+		<array>
+			<dict>
+				<key>MenuTitle</key>
+				<string>Aportes Obligatorios</string>
+				<key>MenuEnum</key>
+				<integer>0</integer>
+			</dict>
+			<dict>
+				<key>MenuTitle</key>
+				<string>Aportes Voluntarios Con Fin Previsional</string>
+				<key>MenuEnum</key>
+				<integer>1</integer>
+			</dict>
+			<dict>
+				<key>MenuTitle</key>
+				<string>Aportes Voluntarios Sin Fin Previsional</string>
+				<key>MenuEnum</key>
+				<integer>2</integer>
+			</dict>
+		</array>
+	</array>
+	<key>Reportes</key>
+	<array>
+		<string>Aportes y Rentabilidad Obtenida</string>
+		<string>Evolución de su Fondo</string>
+		<string>Evolución del Valor Cuota</string>
+	</array>
+</dict>
+</plist>

@@ -1,0 +1,214 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>UserType</key>
+	<dict>
+		<key>Dependiente</key>
+		<array>
+			<dict>
+				<key>Title</key>
+				<string>Periodo de Aporte</string>
+				<key>TipoDato</key>
+				<string>GeneratedDate</string>
+				<key>Parameter</key>
+				<string>periodoAporte</string>
+			</dict>
+			<dict>
+				<key>Title</key>
+				<string>Voluntario Sin Fin Prev. S/.</string>
+				<key>TipoDato</key>
+				<string>NumberString</string>
+				<key>Parameter</key>
+				<string>aporteVoluntarioSFP</string>
+			</dict>
+			<dict>
+				<key>Title</key>
+				<string>Voluntario Con Fin Prev. S/.</string>
+				<key>TipoDato</key>
+				<string>NumberString</string>
+				<key>Parameter</key>
+				<string>aporteVoluntarioCFP</string>
+			</dict>
+		</array>
+		<key>Independiente</key>
+		<array>
+			<dict>
+				<key>Title</key>
+				<string>Periodo de Aporte</string>
+				<key>TipoDato</key>
+				<string>GeneratedDate</string>
+				<key>Parameter</key>
+				<string>periodoAporte</string>
+			</dict>
+			<dict>
+				<key>Title</key>
+				<string>Remuneración</string>
+				<key>TipoDato</key>
+				<string>NumberString</string>
+				<key>Parameter</key>
+				<string>remuneracion</string>
+			</dict>
+			<dict>
+				<key>Title</key>
+				<string>Voluntario Sin Fin Prev. S/.</string>
+				<key>TipoDato</key>
+				<string>NumberString</string>
+				<key>Parameter</key>
+				<string>aporteVoluntarioSFP</string>
+			</dict>
+			<dict>
+				<key>Title</key>
+				<string>Voluntario Con Fin Prev. S/.</string>
+				<key>TipoDato</key>
+				<string>NumberString</string>
+				<key>Parameter</key>
+				<string>aporteVoluntarioCFP</string>
+			</dict>
+		</array>
+	</dict>
+	<key>GeneratedTicket</key>
+	<dict>
+		<key>Independiente</key>
+		<dict>
+			<key>Sections</key>
+			<array>
+				<dict>
+					<key>sectionNumber</key>
+					<integer>0</integer>
+					<key>Fields</key>
+					<array>
+						<string>Periodo</string>
+						<string>Remuneración</string>
+						<string>Aporte Obligatorio</string>
+						<string>Aporte Voluntario SFP</string>
+						<string>Aporte Voluntario CFP</string>
+						<string>Total CIC</string>
+					</array>
+				</dict>
+				<dict>
+					<key>sectionNumber</key>
+					<string></string>
+					<key>Fields</key>
+					<array>
+						<string>Prima Seguro</string>
+						<string>Comisión AFP</string>
+						<string>Total Costo Previsional</string>
+					</array>
+				</dict>
+				<dict>
+					<key>sectionNumber</key>
+					<integer>0</integer>
+					<key>Fields</key>
+					<array>
+						<string>Total a Pagar</string>
+					</array>
+				</dict>
+			</array>
+		</dict>
+		<key>Dependiente</key>
+		<dict>
+			<key>Sections</key>
+			<array>
+				<dict>
+					<key>sectionNumber</key>
+					<integer>0</integer>
+					<key>Fields</key>
+					<array>
+						<string>Periodo</string>
+						<string>Voluntario Sin Fin Prev. S/.</string>
+						<string>Voluntario Con Fin Prev S/.</string>
+						<string>Total CIC</string>
+					</array>
+				</dict>
+				<dict>
+					<key>sectionNumber</key>
+					<integer>0</integer>
+					<key>Fields</key>
+					<array>
+						<string>Total a Pagar</string>
+					</array>
+				</dict>
+			</array>
+		</dict>
+	</dict>
+	<key>Extractor</key>
+	<array>
+		<string>tipoPerfil</string>
+	</array>
+	<key>GeneratedTicket Extractors</key>
+	<dict>
+		<key>Dependiente</key>
+		<dict>
+			<key>Sections</key>
+			<array>
+				<dict>
+					<key>sectionNumber</key>
+					<integer>0</integer>
+					<key>Fields</key>
+					<array>
+						<integer>13</integer>
+						<integer>4</integer>
+						<integer>3</integer>
+						<integer>11</integer>
+					</array>
+				</dict>
+				<dict>
+					<key>sectionNumber</key>
+					<integer>0</integer>
+					<key>Fields</key>
+					<array>
+						<integer>10</integer>
+					</array>
+				</dict>
+			</array>
+		</dict>
+		<key>Independiente</key>
+		<dict>
+			<key>Sections</key>
+			<array>
+				<dict>
+					<key>sectionNumber</key>
+					<integer>0</integer>
+					<key>Fields</key>
+					<array>
+						<integer>13</integer>
+						<integer>12</integer>
+						<integer>2</integer>
+						<integer>4</integer>
+						<integer>3</integer>
+						<integer>11</integer>
+					</array>
+				</dict>
+				<dict>
+					<key>sectionNumber</key>
+					<string></string>
+					<key>Fields</key>
+					<array>
+						<integer>7</integer>
+						<integer>5</integer>
+						<integer>14</integer>
+					</array>
+				</dict>
+				<dict>
+					<key>sectionNumber</key>
+					<integer>0</integer>
+					<key>Fields</key>
+					<array>
+						<integer>10</integer>
+					</array>
+				</dict>
+			</array>
+		</dict>
+		<key>Header</key>
+		<array>
+			<integer>1</integer>
+			<integer>10</integer>
+		</array>
+		<key>Footer</key>
+		<array>
+			<integer>8</integer>
+		</array>
+	</dict>
+</dict>
+</plist>

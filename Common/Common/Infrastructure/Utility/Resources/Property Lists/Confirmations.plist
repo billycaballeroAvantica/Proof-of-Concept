@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Confirmations</key>
+	<array>
+		<dict>
+			<key>Class</key>
+			<string>Solicitud de Estado de Cuenta por E-mail</string>
+			<key>Title</key>
+			<string>Su suscripción al envío de Estado de Cuenta por Email ha sido registrada.</string>
+			<key>Message</key>
+			<string>Le recordamos que su Estado de Cuenta llegará el quinto día útil de cada mes y que como medida de seguridad, será necesaria su Clave de Acceso para poder visualizarlo.</string>
+		</dict>
+		<dict>
+			<key>Class</key>
+			<string>Suscripción Alertas SMS</string>
+			<key>Title</key>
+			<string>Su suscripción a las Alertas SMS ha sido registrada.</string>
+			<key>Message</key>
+			<string>Por su seguridad, la vigencia de la suscripción es de un año a partir de la activación del servicio.</string>
+		</dict>
+		<dict>
+			<key>Class</key>
+			<string>Cambiar Clave Web</string>
+			<key>Title</key>
+			<string>Su clave de acceso ha sido actualizada satisfactoriamente.</string>
+			<key>Message</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>Class</key>
+			<string>Reportes</string>
+			<key>Title</key>
+			<string>Usted no ha realizado movimientos para este tipo de aporte recientemente.</string>
+			<key>Message</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>Class</key>
+			<string>Suscripción Alertas SMS</string>
+			<key>Title</key>
+			<string></string>
+			<key>Message</key>
+			<string>Su desafiliación al servicio de alertas SMS se ha procesado con éxito.</string>
+		</dict>
+	</array>
+</dict>
+</plist>

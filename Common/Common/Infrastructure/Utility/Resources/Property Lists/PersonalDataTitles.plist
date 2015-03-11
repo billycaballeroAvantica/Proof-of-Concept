@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>DatosPersonales</key>
+	<array>
+		<dict>
+			<key>Title</key>
+			<string>Datos de Contacto</string>
+			<key>Data</key>
+			<array>
+				<string>Nombre</string>
+				<string>Teléfono 1</string>
+				<string>Teléfono 2</string>
+				<string>Email</string>
+			</array>
+			<key>Extractor</key>
+			<array>
+				<string>nombre</string>
+				<string>telefono1</string>
+				<string>telefono2</string>
+				<string>email</string>
+			</array>
+		</dict>
+		<dict>
+			<key>Title</key>
+			<string>Domicilio</string>
+			<key>Data</key>
+			<array>
+				<string>Dirección</string>
+				<string>País</string>
+				<string>Departamento</string>
+				<string>Provincia</string>
+				<string>Distrito</string>
+			</array>
+			<key>Extractor</key>
+			<array>
+				<string>direccion</string>
+				<string>pais</string>
+				<string>departamento</string>
+				<string>provincia</string>
+				<string>distrito</string>
+			</array>
+		</dict>
+	</array>
+	<key>footerMessage</key>
+	<string>En caso los datos estén desactualizados, por favor llámenos al 01-215-2828 en Lima o al 0-800-11434 desde provincias (llamada gratuita).</string>
+</dict>
+</plist>

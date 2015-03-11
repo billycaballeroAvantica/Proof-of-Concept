@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>SMS</key>
+	<array>
+		<dict>
+			<key>Text</key>
+			<string>¿Desea suscribirse?</string>
+			<key>Type</key>
+			<string>YesNo</string>
+		</dict>
+		<dict>
+			<key>Text</key>
+			<string>Operador</string>
+			<key>Type</key>
+			<string>Picker</string>
+			<key>Operators</key>
+			<array>
+				<string>Movistar</string>
+				<string>Claro</string>
+				<string>Nextel</string>
+			</array>
+		</dict>
+		<dict>
+			<key>Text</key>
+			<string>Celular</string>
+			<key>Type</key>
+			<string>NumberString</string>
+		</dict>
+	</array>
+	<key>SMS header</key>
+	<string>Autorizo el envío del Estado de Cuenta Mensual por SMS</string>
+	<key>SMS message</key>
+	<string>Usted recibirá la siguiente información : 	- Aportes Obligatorios y Voluntarios. 	- Saldo mensual de sus cuentas y de los últimos   4 aportes obligatorios de los últimos 6 meses.</string>
+	<key>SMS Extractor</key>
+	<array>
+		<string>notificacionSms</string>
+		<string>operador</string>
+		<string>celularAlertas</string>
+	</array>
+	<key>CambioClave</key>
+	<array>
+		<dict>
+			<key>Text</key>
+			<string>Nueva Clave de Acceso</string>
+			<key>Type</key>
+			<string>NumberString</string>
+		</dict>
+		<dict>
+			<key>Text</key>
+			<string>Confirme Clave</string>
+			<key>Type</key>
+			<string>NumberString</string>
+		</dict>
+	</array>
+	<key>CambioClave header</key>
+	<string>Actualice su Clave de Acceso</string>
+	<key>Email Extractor</key>
+	<array>
+		<string>notificacionEmail</string>
+		<string>emailAlertas</string>
+	</array>
+</dict>
+</plist>
