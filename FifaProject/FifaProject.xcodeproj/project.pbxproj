@@ -9,6 +9,9 @@
 /* Begin PBXBuildFile section */
 		66319CFC1AB1D6CF004F09F9 /* FifaProjectTests-Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = 66319CFB1AB1D6CF004F09F9 /* FifaProjectTests-Info.plist */; };
 		66319D031AB1D723004F09F9 /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 66319D011AB1D723004F09F9 /* InfoPlist.strings */; };
+		66319D1A1AB1EAAD004F09F9 /* LoginViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 66319D191AB1EAAD004F09F9 /* LoginViewController.m */; };
+		66319D1D1AB1ED62004F09F9 /* User.m in Sources */ = {isa = PBXBuildFile; fileRef = 66319D1C1AB1ED62004F09F9 /* User.m */; };
+		66319D201AB1F879004F09F9 /* WelcomeViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 66319D1F1AB1F879004F09F9 /* WelcomeViewController.m */; };
 		66E983F01AB0EDF300BDA0EB /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 66E983DF1AB0EDF300BDA0EB /* AppDelegate.m */; };
 		66E983F11AB0EDF300BDA0EB /* Main_iPad.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 66E983E11AB0EDF300BDA0EB /* Main_iPad.storyboard */; };
 		66E983F21AB0EDF300BDA0EB /* Main_iPhone.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 66E983E31AB0EDF300BDA0EB /* Main_iPhone.storyboard */; };
@@ -37,6 +40,12 @@
 /* Begin PBXFileReference section */
 		66319CFB1AB1D6CF004F09F9 /* FifaProjectTests-Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; name = "FifaProjectTests-Info.plist"; path = "FifaProjectTests/FifaProjectTests-Info.plist"; sourceTree = SOURCE_ROOT; };
 		66319D021AB1D723004F09F9 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = FifaProjectTests/en.lproj/InfoPlist.strings; sourceTree = SOURCE_ROOT; };
+		66319D181AB1EAAD004F09F9 /* LoginViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = LoginViewController.h; path = FifaProject/LoginViewController.h; sourceTree = SOURCE_ROOT; };
+		66319D191AB1EAAD004F09F9 /* LoginViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = LoginViewController.m; path = FifaProject/LoginViewController.m; sourceTree = SOURCE_ROOT; };
+		66319D1B1AB1ED62004F09F9 /* User.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = User.h; path = FifaProject/User.h; sourceTree = SOURCE_ROOT; };
+		66319D1C1AB1ED62004F09F9 /* User.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = User.m; path = FifaProject/User.m; sourceTree = SOURCE_ROOT; };
+		66319D1E1AB1F879004F09F9 /* WelcomeViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = WelcomeViewController.h; path = FifaProject/WelcomeViewController.h; sourceTree = SOURCE_ROOT; };
+		66319D1F1AB1F879004F09F9 /* WelcomeViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = WelcomeViewController.m; path = FifaProject/WelcomeViewController.m; sourceTree = SOURCE_ROOT; };
 		66E983DE1AB0EDF300BDA0EB /* AppDelegate.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = AppDelegate.h; path = FifaProject/AppDelegate.h; sourceTree = SOURCE_ROOT; };
 		66E983DF1AB0EDF300BDA0EB /* AppDelegate.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = AppDelegate.m; path = FifaProject/AppDelegate.m; sourceTree = SOURCE_ROOT; };
 		66E983E21AB0EDF300BDA0EB /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Main_iPad.storyboard; sourceTree = "<group>"; };
@@ -80,6 +89,17 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		66319D141AB1E765004F09F9 /* Login */ = {
+			isa = PBXGroup;
+			children = (
+				66319D181AB1EAAD004F09F9 /* LoginViewController.h */,
+				66319D191AB1EAAD004F09F9 /* LoginViewController.m */,
+				66319D1E1AB1F879004F09F9 /* WelcomeViewController.h */,
+				66319D1F1AB1F879004F09F9 /* WelcomeViewController.m */,
+			);
+			name = Login;
+			sourceTree = "<group>";
+		};
 		66E983E01AB0EDF300BDA0EB /* Base.lproj */ = {
 			isa = PBXGroup;
 			children = (
@@ -112,6 +132,8 @@
 			isa = PBXGroup;
 			children = (
 				66E983FB1AB0EF1E00BDA0EB /* Categories */,
+				66319D1B1AB1ED62004F09F9 /* User.h */,
+				66319D1C1AB1ED62004F09F9 /* User.m */,
 			);
 			name = "Domain Model";
 			sourceTree = "<group>";
@@ -188,6 +210,7 @@
 		66E984031AB0F01D00BDA0EB /* Controllers */ = {
 			isa = PBXGroup;
 			children = (
+				66319D141AB1E765004F09F9 /* Login */,
 				66E983E51AB0EDF300BDA0EB /* DetailViewController.h */,
 				66E983E61AB0EDF300BDA0EB /* DetailViewController.m */,
 				66E983EE1AB0EDF300BDA0EB /* MasterViewController.h */,
@@ -387,8 +410,11 @@
 			files = (
 				66E983F81AB0EDF300BDA0EB /* MasterViewController.m in Sources */,
 				66E983F01AB0EDF300BDA0EB /* AppDelegate.m in Sources */,
+				66319D1D1AB1ED62004F09F9 /* User.m in Sources */,
 				66E983F71AB0EDF300BDA0EB /* main.m in Sources */,
 				66E983F31AB0EDF300BDA0EB /* DetailViewController.m in Sources */,
+				66319D201AB1F879004F09F9 /* WelcomeViewController.m in Sources */,
+				66319D1A1AB1EAAD004F09F9 /* LoginViewController.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
