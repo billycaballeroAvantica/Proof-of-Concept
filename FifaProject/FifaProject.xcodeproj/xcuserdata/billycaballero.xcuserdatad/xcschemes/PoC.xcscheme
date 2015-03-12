@@ -15,9 +15,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "CE6086AE1977171A0021B562"
-               BuildableName = "PoC.app"
-               BlueprintName = "PoC"
-               ReferencedContainer = "container:PoC.xcodeproj">
+               BuildableName = "FifaProject.app"
+               BlueprintName = "FifaProject"
+               ReferencedContainer = "container:FifaProject.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
          <BuildActionEntry
@@ -29,9 +29,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "CE6086D51977171A0021B562"
-               BuildableName = "PoCTests.xctest"
-               BlueprintName = "PoCTests"
-               ReferencedContainer = "container:PoC.xcodeproj">
+               BuildableName = "FifaProjectTests.xctest"
+               BlueprintName = "FifaProjectTests"
+               ReferencedContainer = "container:FifaProject.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -47,9 +47,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "CE6086D51977171A0021B562"
-               BuildableName = "PoCTests.xctest"
-               BlueprintName = "PoCTests"
-               ReferencedContainer = "container:PoC.xcodeproj">
+               BuildableName = "FifaProjectTests.xctest"
+               BlueprintName = "FifaProjectTests"
+               ReferencedContainer = "container:FifaProject.xcodeproj">
             </BuildableReference>
          </TestableReference>
       </Testables>
@@ -57,9 +57,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "CE6086AE1977171A0021B562"
-            BuildableName = "PoC.app"
-            BlueprintName = "PoC"
-            ReferencedContainer = "container:PoC.xcodeproj">
+            BuildableName = "FifaProject.app"
+            BlueprintName = "FifaProject"
+            ReferencedContainer = "container:FifaProject.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
    </TestAction>
@@ -76,9 +76,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "CE6086AE1977171A0021B562"
-            BuildableName = "PoC.app"
-            BlueprintName = "PoC"
-            ReferencedContainer = "container:PoC.xcodeproj">
+            BuildableName = "FifaProject.app"
+            BlueprintName = "FifaProject"
+            ReferencedContainer = "container:FifaProject.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
       <AdditionalOptions>
@@ -94,9 +94,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "CE6086AE1977171A0021B562"
-            BuildableName = "PoC.app"
-            BlueprintName = "PoC"
-            ReferencedContainer = "container:PoC.xcodeproj">
+            BuildableName = "FifaProject.app"
+            BlueprintName = "FifaProject"
+            ReferencedContainer = "container:FifaProject.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>
